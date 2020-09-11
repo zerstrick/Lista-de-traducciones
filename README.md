@@ -17,13 +17,13 @@ Vanilla Apperal Expanded  (1.1, 1.2) --> Artorias
 
 Vanilla Armour Expanded   (1.1, 1.2) --> Artorias
 
-Vanilla Fishing Expanded  (1.1) --> Lagartijah
-
 Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
+
+Vanilla Fishing Expanded  (1.1) --> Lagartijah
 
 ## MODS A FUTURO
 
