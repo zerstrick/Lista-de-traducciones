@@ -13,12 +13,12 @@ Quarry Mod                (1.1, 1.2) --> Artorias
 
 RT Fuse Mod               (1.1, 1.2) --> Artorias
 
+Vanilla Apperal Expanded  (1.1, 1.2) --> Artorias
+
 Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias
 
 Vanilla Armour Expanded   (1.1, 1.2) --> Artorias
 
 ## MODS EN PROCESO DE TRADUCCIÓN
-
-Vanilla Apperal Expanded  (1.1, 1.2) --> Artorias
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
