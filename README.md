@@ -21,12 +21,14 @@ Vanilla Armour Expanded   (1.1, 1.2) --> Artorias
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
+Vanilla Fishing Expanded  (1.1, 1.2) --> Lagartijah
+
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
 
 ## MODS A FUTURO
 
 Android Tier
 
-Vanilla Plants expanded
+Vanilla Plants Expanded
 
-Vanilla Cooking expanded
+Vanilla Cooking Expanded
