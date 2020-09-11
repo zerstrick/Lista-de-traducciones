@@ -22,3 +22,11 @@ Vanilla Armour Expanded   (1.1, 1.2) --> Artorias
 ## MODS EN PROCESO DE TRADUCCIÓN
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
+
+## MODS A FUTURO
+
+Android Tier
+
+Vanilla Plants expanded
+
+Vanilla Cooking expanded
