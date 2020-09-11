@@ -16,3 +16,7 @@ RT Fuse Mod               //V. 1.1, 1.2
 Vanilla Weapons Expanded  //V. 1.1, 1.2
 
 Vanilla Armour Expanded   //V. 1.1, 1.2
+
+## MODS EN PROCESO DE TRADUCCIÓN
+Vanilla Apperal Expanded  //V. 1.1, 1.2 --> Artorias
+SIMDEARMS Mod             //V. 1.1, 1.2 --> Artorias
