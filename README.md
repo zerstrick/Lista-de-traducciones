@@ -25,10 +25,10 @@ Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
 
+Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah
+
 ## MODS A FUTURO
 
 Android Tier
 
 Vanilla Plants Expanded
-
-Vanilla Cooking Expanded
