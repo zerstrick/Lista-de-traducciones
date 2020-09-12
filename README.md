@@ -15,9 +15,9 @@ RT Fuse Mod               (1.1, 1.2) --> Artorias
 
 Vanilla Apperal Expanded  (1.1, 1.2) --> Artorias / Zerstrick (Editando)
 
-Vanilla Armour Expanded   (1.1, 1.2) --> Artorias
+Vanilla Armour Expanded   (1.1, 1.2) --> Artorias / Zerstrick (Editando)
 
-Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah
+Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado ✅
 
 Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias
 
