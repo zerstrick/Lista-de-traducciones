@@ -9,7 +9,7 @@ More food      //V. 1.0, 1.1, 1.2
 ------------------------------------------------------------------------
 ## MODS YA TRADUCIDOS POR EL EQUIPO
 
-Quarry Mod                (1.1, 1.2) --> Artorias
+Quarry Mod                (1.1, 1.2) --> Artorias verificado ✅
 
 RT Fuse Mod               (1.1, 1.2) --> Artorias
 
@@ -25,7 +25,7 @@ Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
 
-Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah
+Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah / SPENCER (ayudante)
 
 ## MODS A FUTURO
 
