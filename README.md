@@ -19,7 +19,7 @@ Vanilla Armour Expanded   (1.1, 1.2) --> Artorias / Zerstrick (Editando)
 
 Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado ✅
 
-Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias
+Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado ✅
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
