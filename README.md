@@ -25,7 +25,7 @@ Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado ✅
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
 
-Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah / SPENCER (ayudante)
+Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah
 
 ## MODS A FUTURO
 
