@@ -32,3 +32,7 @@ Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah
 Android Tier
 
 Vanilla Plants Expanded
+
+Vanilla Furniture Expanded
+
+Vanilla Weapons Expanded - Quickdraw
