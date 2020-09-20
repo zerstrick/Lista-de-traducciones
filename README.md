@@ -19,19 +19,23 @@ Vanilla Armour Expanded   (1.1, 1.2) --> Artorias  verificado ✅
 
 Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado ✅
 
-Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado ✅
+Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias Verificado ✅
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
 SIMDEARMS Mod             (1.1, 1.2) --> Artorias
 
-Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah
+Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah/Artorias/GiovaniPuc
+
+Vanilla Plants Expanded   (1.1, 1.2) --> Lagartijah
 
 ## MODS A FUTURO
 
 Android Tier
 
-Vanilla Plants Expanded
+Vanilla Cooking Stews
+
+Vanilla Cooking Sushi
 
 Vanilla Furniture Expanded
 
