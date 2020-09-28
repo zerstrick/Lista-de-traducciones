@@ -1,42 +1,54 @@
-# Lista-de-traducciones
-Lista de traducciones de Rimworld.
-
-Se enumerarán las traducciones, añadiendo la compatibilidad de versiones.
-Ejemplo: 
-Nombre del mod // Versiones
-More food      //V. 1.0, 1.1, 1.2
-
-------------------------------------------------------------------------
 ## MODS YA TRADUCIDOS POR EL EQUIPO
 
-Quarry Mod                (1.1, 1.2) --> Artorias verificado ✅
+Quarry Mod                (1.1, 1.2) --> Artorias verificado 
 
-RT Fuse Mod               (1.1, 1.2) --> Artorias
+Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Correción Final lista ✅
 
-Vanilla Apperal Expanded  (1.1, 1.2) --> Artorias Verificado ✅
+Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Correción Final lista ✅
 
-Vanilla Armour Expanded   (1.1, 1.2) --> Artorias  verificado ✅
+Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Rectificando 🔨
 
-Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado ✅
+Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado 
 
-Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias Verificado ✅
+RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Correción Final lista ✅
+
+EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Zerstrick Rectificando 🔨
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
-SIMDEARMS Mod             (1.1, 1.2) --> Artorias
+🟢 = Activo, se está traduciendo.
 
-Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah/Artorias/GiovaniPuc
+🟡 = Corrección, se está comprobando que no tenga errores.
 
-Vanilla Plants Expanded   (1.1, 1.2) --> Lagartijah
+🔴 = Inactivo, no se está traduciendo actualmente.
+
+------------------------------------------------------------------------
+
+🔴  Sidearms                   (1.1, 1.2) --> Artorias
+
+🟡  Vanilla Apperal Expanded   (1.1, 1.2) --> Artorias/Zerstrick
+
+🟡  Vanilla Cooking Expanded   (1.1, 1.2) --> Lagartijah/Artorias/Giovani
+
+🟢  Vanilla Stews module       (1.1, 1.2) --> Giovani
+
+🟡  Vanilla Sushi module       (1.1, 1.2) --> Lagartijah
+
+🟢  Vanilla Weapons Laser      (1.1, 1.2) --> Artorias
 
 ## MODS A FUTURO
 
 Android Tier
 
-Vanilla Cooking Stews
+Vanilla Books Expanded
 
-Vanilla Cooking Sushi
+Vanilla Brewing Expanded
 
 Vanilla Furniture Expanded
 
+Vanilla Plants Expanded
+
 Vanilla Weapons Expanded - Quickdraw
+
+## LINKS ASOCIADOS
+https://discord.gg/sNHDBSz
