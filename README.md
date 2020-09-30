@@ -51,4 +51,8 @@ Vanilla Plants Expanded
 Vanilla Weapons Expanded - Quickdraw
 
 ## LINKS ASOCIADOS
+Discord
 https://discord.gg/sNHDBSz
+
+## Si te ha gustado, puedes comprarnos un cafecito ;)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C72B1WX)
