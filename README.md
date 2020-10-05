@@ -32,7 +32,9 @@ EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Zerstrick Rectificando 🔨
 
 🟡  Vanilla Sushi module       (1.1, 1.2) --> Lagartijah
 
-🟢  Vanilla Weapons Laser      (1.1, 1.2) --> Artorias
+🔴 Vanilla Weapons Laser      (1.1, 1.2) --> Artorias
+
+🟡  Vanilla Books Expanded     (1.1,1.2) ---> Artorias
 
 ## MODS A FUTURO
 
