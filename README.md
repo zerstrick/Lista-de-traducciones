@@ -2,15 +2,15 @@
 
 Quarry Mod                (1.1, 1.2) --> Artorias verificado 
 
-Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Correción Final lista ✅
+Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅
 
-Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Correción Final lista ✅
+Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅
 
-Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Rectificando 🔨
+Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Corrección Final lista ✅
 
 Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado 
 
-RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Correción Final lista ✅
+RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Corrección Final lista ✅
 
 EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Zerstrick Rectificando 🔨
 
@@ -25,8 +25,6 @@ EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Zerstrick Rectificando 🔨
 ------------------------------------------------------------------------
 
 🔴  Sidearms                   (1.1, 1.2) --> Artorias
-
-🟡  Vanilla Apperal Expanded   (1.1, 1.2) --> Artorias/Zerstrick
 
 🟡  Vanilla Cooking Expanded   (1.1, 1.2) --> Lagartijah/Artorias/Giovani
 
