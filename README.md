@@ -2,9 +2,9 @@
 
 Quarry Mod                (1.1, 1.2) --> Artorias verificado 
 
-Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅
+Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2248597683
 
-Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅
+Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2235798414
 
 Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Corrección Final lista ✅
 
