@@ -6,13 +6,17 @@ Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Correcci
 
 Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2235798414
 
-Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Corrección Final lista ✅
+Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2256274573
 
-Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado 
+Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2252361884
 
-RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Corrección Final lista ✅
+RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Corrección Final lista ✅ 
 
-EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Zerstrick Rectificando 🔨
+EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2257986963
+
+Vanilla Cooking Expanded + Module Sushi + Modules Stews  (1.1, 1.2) --> Lagartijah/Artorias/Giovani  /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2261399631
+
+zombieland                 (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2269065569
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
@@ -25,12 +29,6 @@ EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Zerstrick Rectificando 🔨
 ------------------------------------------------------------------------
 
 🔴  Sidearms                   (1.1, 1.2) --> Artorias
-
-🟡  Vanilla Cooking Expanded   (1.1, 1.2) --> Lagartijah/Artorias/Giovani
-
-🟢  Vanilla Stews module       (1.1, 1.2) --> Giovani
-
-🟡  Vanilla Sushi module       (1.1, 1.2) --> Lagartijah
 
 🔴 Vanilla Weapons Laser      (1.1, 1.2) --> Artorias
 
@@ -49,8 +47,6 @@ Vanilla Furniture Expanded
 Vanilla Plants Expanded
 
 Vanilla Weapons Expanded - Quickdraw
-
-zombieland 
 
 ## LINKS ASOCIADOS
 Discord
