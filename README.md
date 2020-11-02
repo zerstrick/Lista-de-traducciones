@@ -10,13 +10,13 @@ Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias C
 
 Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2252361884
 
-RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Corrección Final lista ✅ 
+RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Verificando 🔨
 
 EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2257986963
 
 Vanilla Cooking Expanded + Module Sushi + Modules Stews  (1.1, 1.2) --> Lagartijah/Artorias/Giovani  /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2261399631
 
-zombieland                 (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2269065569
+Zombieland                 (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2269065569
 
 ## MODS EN PROCESO DE TRADUCCIÓN
 
@@ -32,8 +32,9 @@ zombieland                 (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corre
 
 🔴 Vanilla Weapons Laser      (1.1, 1.2) --> Artorias
 
-🟡  Vanilla Books Expanded     (1.1,1.2) ---> Artorias
+ 🟡  Vanilla Books Expanded     (1.1,1.2) ---> Artorias
 
+ 🟡 Vanilla Furniture Expanded  (1.1,1.2)----> Zerstrick
 ## MODS A FUTURO
 
 Android Tier
@@ -41,8 +42,6 @@ Android Tier
 Vanilla Books Expanded
 
 Vanilla Brewing Expanded
-
-Vanilla Furniture Expanded
 
 Vanilla Plants Expanded
 
