@@ -1,24 +1,67 @@
-## MODS YA TRADUCIDOS POR EL EQUIPO
+# Lista-de-traducciones
+Lista de traducciones de Rimworld.
 
-Quarry Mod                (1.1, 1.2) --> Artorias verificado 
+Se enumerarán las traducciones, añadiendo la compatibilidad de versiones.
+Ejemplo: 
 
-Vanilla Armour Expanded   (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2248597683
+Nombre del mod (Versiones) --> Traductor/Encargado de traducir
 
-Vanilla Apparel Expanded  (1.1, 1.2) --> Artorias Verificado/ Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2235798414
+More Food                (1.1, 1.2)
+★ Está en Steam | ☆ Fuera de Steam   AC = Adaptación al Castellano por Zakees
+------------------------------------------------------------------------
+## MODS PUBLICADOS
 
-Vanilla Fishing Expanded  (1.0, 1.1, 1.2) --> Lagartijah Verificado / Artorias Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2256274573
+★ Dubs Mint Menus  (1.0 - 1.2) --> Lagartijah | Zerstrick (Corregido)
 
-Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias / Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2252361884
+★☆ EdB Prepare Carefully (1.1, 1.2) --> Argon111 | Zerstrick (Corregido)
 
-RT Fuse Mod               (1.1, 1.2) --> Artorias / Zerstrick Verificando 🔨
+★ Quarry Mod  (1.1, 1.2) --> Artorias 
 
-EdB Prepare Carefully     (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2257986963
+★ Zombieland  (1.0 - 1.2) --> Lagartijah, Giovani, Argon111 | Zerstrick (Corregido) (AC)
 
-Vanilla Cooking Expanded + Module Sushi + Modules Stews  (1.1, 1.2) --> Lagartijah/Artorias/Giovani  /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2261399631
+ *COLECCION VANILLA EXPANDED*
+ 
+  ★ Vanilla Apparel + Armour Expanded  (1.0 - 1.2) --> Artorias | Zerstrick (Corregido) (AC)
+       
+  ★ Vanilla Fishing Expanded  (1.0 - 1.2) --> Lagartijah | Zerstrick (Corregido) (AC)
+  
+  ★ Vanilla Expanded Framework  (1.1, 1.2) --> Artorias, Zerstrick | Zerstrick (Corregido)
+       
+   -Serie Cooking Expanded    (AC)
+       
+       ★ Vanilla Cooking Expanded  (1.1, 1.2) --> Lagartijah, Artorias, Giovani | Zerstrick (Corregido)
+       
+       ★ Vanilla Cooking - Stews   (1.1, 1.2) --> Giovani | Zerstrick (Corregido)
+       
+       ★ Vanilla Cooking - Sushi   (1.1, 1.2) --> Lagartijah | Zerstrick (Corregido)
+       
+   -Serie Weapons Expanded
+   
+       ★ Vanilla Weapons Expanded  (1.1, 1.2) --> Artorias, | Zerstrick (Corregido)
+       
+   -Serie Furniture Expanded
+   
+       ★Vanilla Furniture Expanded (1.1, 1.2) --> Lagartijah  | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Farming (1.1, 1.2) -->Lagartijah | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Medical (1.1, 1.2) -->Lagartijah | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Power (1.1, 1.2) --> Zerstrick | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Production (1.1, 1.2) -->Lagartijah | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Props and Decor (1.1, 1.2) --> Zerstrick, Lagartijah | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Security (1.1, 1.2) -->Lagartijah | Zerstrick (Corregido)
+       
+       ★Vanilla Furniture Expanded - Spacer (1.1, 1.2) -->Lagartijah | Zerstrick (Corregido)       
 
-Zombieland                 (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corrección Final lista ✅ https://steamcommunity.com/sharedfiles/filedetails/?id=2269065569
+------------------------------------------------------------------------
 
 ## MODS EN PROCESO DE TRADUCCIÓN
+
+🔵 = Finalizado, traducción ya finalizada, su descarga no está disponible
 
 🟢 = Activo, se está traduciendo.
 
@@ -28,28 +71,48 @@ Zombieland                 (1.1, 1.2) --> Argon111 /  Verificado Zerstrick Corre
 
 ------------------------------------------------------------------------
 
-🔴  Sidearms                   (1.1, 1.2) --> Artorias
+🔵  Deep Storage                   (1.0, 1.1, 1.2) --> Lagartijah
 
-🔴 Vanilla Weapons Laser      (1.1, 1.2) --> Artorias
+🔵  Home Mover                          (1.1, 1.2) --> Lagartijah
 
- 🟡  Vanilla Books Expanded     (1.1,1.2) ---> Artorias
+🟡  HubsLib                            (1.0 - 1.2) --> Zerstrick
 
- 🟡 Vanilla Furniture Expanded  (1.1,1.2)----> Zerstrick
+🟢  RT Fuse Mod                         (1.1, 1.2) --> Artorias, Zerstrick
+
+🔴  Sidearms                            (1.1, 1.2) --> Artorias
+
+🟡  Utility Columns                     (1.1, 1.2) --> Lagartijah
+
+🔴  Vanilla Books Expanded              (1.1, 1.2) --> Artorias 
+
+🟡  Vanilla Faction Viking                   (1.2) --> Lagartijah, Artorias
+
+🔴  Vanilla Plants Expanded             (1.1, 1.2) --> Lagartijah
+
+🟡  Vanilla Weapons - Granades          (1.1, 1.2) --> Zerstrick
+
+🟡  Vanilla Weapons - Laser             (1.1, 1.2) --> Artorias, Neolaris
+
+🟡  Vanilla Weapons - Quickdraw    (1.0, 1.1, 1.2) --> Lagartijah
+
 ## MODS A FUTURO
 
 Android Tier
 
-Vanilla Books Expanded
-
 Vanilla Brewing Expanded
 
-Vanilla Plants Expanded
+Vanilla F. Expanded - Settlers
 
-Vanilla Weapons Expanded - Quickdraw
+Alpha Animals
+
+Colony Manager
+
+Vanilla Hair Expanded
+
+Vanilla Hair Expanded - Beards
+
+Kurin Fixer
 
 ## LINKS ASOCIADOS
-Discord
 https://discord.gg/sNHDBSz
 
-## Si te ha gustado, puedes comprarnos un cafecito ;)
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C72B1WX)
