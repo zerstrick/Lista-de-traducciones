@@ -1,0 +1,80 @@
+botas
+zapatos
+botas de placas
+botas marine
+guantes
+guantes de placas
+guantes marine
+camiseta casual
+sudadera con capucha
+shorts
+falda
+camisa con corbata
+chaqueta de traje
+pantalones de vestir
+fedora
+overol
+camisa de lana
+jeans
+uniforme de chef
+chaqueta militar
+uniforme militar
+chaqueta de constructor
+bata médica
+camiseta sin mangas
+bata de laboratorio
+camisa de comisario
+jumpsuit
+chalec antibalas refozado
+traje de camuflaje
+chaleco avanzado
+traje HAZMAT
+túnica sencilla
+blusa
+delantal
+capa sencilla
+gorro de invierno
+sombrero de verano
+abrigo de piel
+poncho tribal
+falda tribal
+capucha
+mochila
+estandarte de batalla
+bolso médico
+carcaj
+cinturón de herramientas
+paquete de municiones
+cinturón de explosivos
+cinturón escudo de rango
+gambesón
+chaleco acolchado
+armadura de placas ligera
+hombreras de placa
+peto de placas
+cota de malla
+casco de placas
+armadura de madera
+máscara de guerra de piedra
+casco marine pesado
+armadura marine pesada
+casco de soldado
+armadura de soldado
+casco de soldado prestigioso
+armadura de soldado prestigiosa
+casco rompeasedio prestigioso
+armadura rompeasedio prestigiosa
+bufanda
+boina
+casco de protección
+mascarilla quirúrgica
+máscara de gas
+gorra de béisbol
+gafas de sol
+gafas
+gorro de chef
+pasamontaña táctico
+gafas de visión nocturna
+gafas blindadas
+capucha de camuflaje
+máscara HAZMAT

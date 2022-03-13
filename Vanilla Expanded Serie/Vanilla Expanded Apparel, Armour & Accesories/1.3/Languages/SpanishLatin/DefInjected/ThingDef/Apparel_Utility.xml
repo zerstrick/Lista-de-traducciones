@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--EN: backpack-->
+  <VAEA_Apparel_Backpack.label>mochila</VAEA_Apparel_Backpack.label>
+  <!--EN: A simple roomy backpack. Greatly increases the carry capacity of the wearer.-->
+  <VAEA_Apparel_Backpack.description>Una mochila sencilla y espaciosa. Aumenta en gran medida la capacidad de transporte del usuario.</VAEA_Apparel_Backpack.description>
+
+  <!--EN: battle banner-->
+  <VAEA_Apparel_BattleBanner.label>estandarte de batalla</VAEA_Apparel_BattleBanner.label>
+  <!--EN: A battle banner. Gives the wearer a fighting spirit and confidence. Increases resistance to pain.-->
+  <VAEA_Apparel_BattleBanner.description>Un estandarte de batalla. Da al portador espíritu de lucha y confianza. Aumenta la resistencia al dolor.</VAEA_Apparel_BattleBanner.description>
+
+  <!--EN: medic bag-->
+  <VAEA_Apparel_MedicBag.label>bolso médico</VAEA_Apparel_MedicBag.label>
+  <!--EN: A bag with everything needed to provide medical treatment. Increases tend quality and surgery success chance.-->
+  <VAEA_Apparel_MedicBag.description>Un bolso con todo lo necesario para el tratamiento médico. Aumenta la calidad de la atención y las posibilidades de éxito de la cirugía.</VAEA_Apparel_MedicBag.description>
+
+  <!--EN: quiver-->
+  <VAEA_Apparel_Quiver.label>carcaj</VAEA_Apparel_Quiver.label>
+  <!--EN: Small quiver for arrows. Increases firing rate of all neolithic and medieval weapons.-->
+  <VAEA_Apparel_Quiver.description>Pequeño carcaj para flechas. Aumenta la cadencia de tiro de todas las armas neolíticas y medievales.</VAEA_Apparel_Quiver.description>
+
+  <!--EN: tool belt-->
+  <VAEA_Apparel_ToolBelt.label>cinturón de herramientas</VAEA_Apparel_ToolBelt.label>
+  <!--EN: A simple tool belt with everything needed to nail a couple of planks or fix electrical appliances.-->
+  <VAEA_Apparel_ToolBelt.description>Un sencillo cinturón de herramientas con todo lo necesario para clavar un par de tablones o arreglar aparatos eléctricos.</VAEA_Apparel_ToolBelt.description>
+
+  <!--EN: ammo pack-->
+  <VAEA_Apparel_AmmoPack.label>paquete de municiones</VAEA_Apparel_AmmoPack.label>
+  <!--EN: Bandolier with ammunition. Decreases cooldown of all ranged weapons by 25%.-->
+  <VAEA_Apparel_AmmoPack.description>Bandolera con munición. Reduce el enfriamiento de todas las armas a distancia en un 25%.</VAEA_Apparel_AmmoPack.description>
+
+  <!--EN: explosive belt-->
+  <VAEA_Apparel_ExplosiveBelt.label>cinturón de explosivos</VAEA_Apparel_ExplosiveBelt.label>
+  <!--EN: A belt with explosive shells. Will detonate upon user's death.-->
+  <VAEA_Apparel_ExplosiveBelt.description>Un cinturón con proyectiles explosivos. Detonará al morir el usuario.</VAEA_Apparel_ExplosiveBelt.description>
+
+  <!--EN: ranged shield belt-->
+  <VAEA_Apparel_RangedShieldBelt.label>cinturón escudo de rango</VAEA_Apparel_RangedShieldBelt.label>
+  <!--EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It doesn't prevent the wearer from firing out, and shuts down instantly if hit by EMP.-->
+  <VAEA_Apparel_RangedShieldBelt.description>Un dispositivo de repulsión de proyectiles. Intenta detener los proyectiles o la metralla entrantes, pero no hace nada contra los ataques cuerpo a cuerpo o el calor. No impide que el portador dispare, y se apaga instantáneamente si es golpeado por pulsos electromagnéticos (PEM).</VAEA_Apparel_RangedShieldBelt.description>
+
+  <!--EN: ressurector belt-->
+  <VAEA_Apparel_RessurectorBelt.label>cinturón de resurrección</VAEA_Apparel_RessurectorBelt.label>
+  <!--EN: A belt containing a dose of resurrector serum. Injects the serum immediately after death.-->
+  <VAEA_Apparel_RessurectorBelt.description>Un cinturón que contiene una dosis de suero resucitador. Inyecta el suero inmediatamente después de la muerte.</VAEA_Apparel_RessurectorBelt.description>
+
+  <!--EN: mini-turret pack-->
+  <VAEA_Apparel_MiniTurretPack.label>minitorreta montada</VAEA_Apparel_MiniTurretPack.label>
+  <!--EN: A small pack of ammunition and components that control a shoulder mounted mini-turret.-->
+  <VAEA_Apparel_MiniTurretPack.description>Un pequeño paquete de munición y componentes que controlan una minitorreta montada en el hombro.</VAEA_Apparel_MiniTurretPack.description>
+  <!--EN: Gun-->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>Arma de fuego</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <!--EN: A simple automatic gun made to be mounted on a shoulder.-->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>Una simple arma de fuego automática hecha para ser montada en el hombro.</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>
+  
+</LanguageData>

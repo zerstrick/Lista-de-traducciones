@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+   <!-- casual wear -->
+  <VAE_CasualWear.label>ropa casual</VAE_CasualWear.label>
+  <!-- Craft casual wear with handy features for any life situation.-->
+  <VAE_CasualWear.description>Confecciona ropa casual artesanal con rasgos prácticos para cualquier situación de la vida.</VAE_CasualWear.description>
+  <!-- formal wear -->
+  <VAE_FormalWear.label>ropa formal</VAE_FormalWear.label>
+  <!-- Craft suits and formal wear -->
+  <VAE_FormalWear.description>Confecciona trajes artesanales y ropa formal para ceremonias o celebraciones.</VAE_FormalWear.description>
+  <!-- Work attire -->
+  <VAE_WorkAttire.label>ropa de trabajo</VAE_WorkAttire.label>
+  <!-- Craft comfortable and and functional attire for any kind of work.-->
+  <VAE_WorkAttire.description>Confecciona un atuendo cómodo y funcional para cualquier tipo de trabajo.</VAE_WorkAttire.description>
+  <!-- sterile attire -->
+  <VAE_SterileAttire.label>ropa aséptica</VAE_SterileAttire.label>
+  <!-- Craft sterile attire used by doctors and scientists.-->
+  <VAE_SterileAttire.description>Confecciona ropa estéril artesanal usada por médicos y científicos.</VAE_SterileAttire.description>
+  <!--military clothing -->
+  <VAE_MilitaryClothing.label>ropa militar</VAE_MilitaryClothing.label>
+  <!-- Craft weatherproof outfits to protect your soldiers-->
+  <VAE_MilitaryClothing.description>Confecciona trajes impermeables para proteger a tus soldados.</VAE_MilitaryClothing.description>
+
+  <!--Armor-->
+  <!-- leather tanning -->
+  <VAE_LeatherTanning.label>curtido de cuero</VAE_LeatherTanning.label>
+  <!-- Learn the process of tanning to craft more thicker and durable armors -->
+  <VAE_LeatherTanning.description>Aprende el proceso de curtido para elaborar armaduras más gruesas y duraderas.</VAE_LeatherTanning.description>
+
+  <!-- hazard protection -->
+  <VAE_HazardProtection.label>protección contra riesgos</VAE_HazardProtection.label>
+  <!-- Develop suits resistant to high toxicity and radiation -->
+  <VAE_HazardProtection.description>Fabrica trajes resistentes a la alta toxicidad y a la radiación.</VAE_HazardProtection.description>
+
+  <!--miltary camouflage-->
+  <VAE_MlitaryCamouflage.label>camuflaje militar</VAE_MlitaryCamouflage.label>
+  <!-- Craft special military apparel allowing users to resemble the background environment such as foliage -->
+  <VAE_MlitaryCamouflage.description>Fabrica ropa militar especial que permite a los usuarios asemejarse al entorno, como el follaje.</VAE_MlitaryCamouflage.description>
+
+  <!--EN: siegebreaker armor  -->
+  <VAE_SiegebreakerArmor.label>servoamadura rompe-asedios</VAE_SiegebreakerArmor.label>
+  <!--EN: Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components.  -->
+  <VAE_SiegebreakerArmor.description>Fabrica servoamaduras rompe-asedios, una armadura pesada que ralentiza significativamente al usuario pero que proporciona una protección avanzada a distancia. Ten en cuenta que también requiere componentes avanzados.</VAE_SiegebreakerArmor.description>
+
+  <!--EN: trooper armor  -->
+  <VAE_TrooperArmor.label>servoamadura de soldado</VAE_TrooperArmor.label>
+  <!--EN: Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components.  -->
+  <VAE_TrooperArmor.description>Fabrica servoamaduras de soldados, una armadura ligera semipotenciada que es ligera y barata de producir. Ten en cuenta que también requieren componentes avanzados.</VAE_TrooperArmor.description>
+</LanguageData>

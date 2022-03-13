@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarf -->
+  <VAE_Headgear_Scarf.label>bufanda</VAE_Headgear_Scarf.label>
+  <!-- A warm and long piece of fabric protecting the neck from exposure to cold -->
+  <VAE_Headgear_Scarf.description>Un cálido y largo trozo de tela que protege el cuello de la exposición al frío.</VAE_Headgear_Scarf.description>
+
+  <!-- Beret -->
+  <VAE_Headgear_Beret.label>boina</VAE_Headgear_Beret.label>
+  <!-- A soft, flat crowned hat. Often worn by the military as a symbol of valor -->
+  <VAE_Headgear_Beret.description>Un sombrero de copa suave y plano. A menudo usado por los militares como símbolo de valor.</VAE_Headgear_Beret.description>
+
+  <!-- Hardhat -->
+  <VAE_Headgear_Hardhat.label>casco de protección</VAE_Headgear_Hardhat.label>
+  <!-- A type of helmet predominantly used in a work environment. Provides high protection against blunt trauma -->
+  <VAE_Headgear_Hardhat.description>Un tipo de casco que se utiliza predominantemente en un ambiente de trabajo. Proporciona una alta protección contra el traumatismo contundente.</VAE_Headgear_Hardhat.description>
+
+  <!-- Surgical Mask -->
+  <VAE_Headgear_SurgicalMask.label>mascarilla quirúrgica</VAE_Headgear_SurgicalMask.label>
+  <!-- Sanitary mask worn by the surgeons, nurses and other workers involved in patient care -->
+  <VAE_Headgear_SurgicalMask.description>Mascarilla sanitaria usada por los cirujanos, enfermeras y otros trabajadores involucrados en el cuidado de los pacientes.</VAE_Headgear_SurgicalMask.description>
+
+  <!-- Gas Mask -->
+  <VAE_Headgear_GasMask.label>máscara de gas</VAE_Headgear_GasMask.label>
+  <!-- A full face isolating mask with basic air filtration systems, providing some degree of toxic immunity -->
+  <VAE_Headgear_GasMask.description>Una máscara aislante de cara completa con sistemas básicos de filtración de aire, que proporciona algo de inmunidad tóxica.</VAE_Headgear_GasMask.description>
+
+  <!-- Baseball Cap -->
+  <VAE_Headgear_BaseballCap.label>gorra de béisbol</VAE_Headgear_BaseballCap.label>
+  <!-- A type of soft cap with a rounded crown and a stiff peak protecting the front -->
+  <VAE_Headgear_BaseballCap.description>Un tipo de gorra con una visera prominente que puede ser curva o plana, protege la cabeza del portador de los rayos UV.</VAE_Headgear_BaseballCap.description>
+
+  <!-- Sunglasses -->
+  <VAE_Headgear_Sunglasses.label>gafas de sol</VAE_Headgear_Sunglasses.label>
+  <!-- A pair of sunglasses protecting the wearer from dangerous UV rays. Often considered to be ‘cool’ -->
+  <VAE_Headgear_Sunglasses.description>Un par de gafas de sol que protegen al usuario de los peligrosos rayos UV. A menudo se consideran "cool".</VAE_Headgear_Sunglasses.description>
+
+  <!-- Glasses -->
+  <VAE_Headgear_Glasses.label>gafas</VAE_Headgear_Glasses.label>
+  <!-- A pair of correction glasses, providing users with some degree of psychic immunity -->
+  <VAE_Headgear_Glasses.description>Un par de gafas correctoras, que proporcionan a los usuarios algo de inmunidad psíquica.</VAE_Headgear_Glasses.description>
+
+  <!-- Chefs Toque -->
+  <VAE_Headgear_ChefsToque.label>gorro de chef</VAE_Headgear_ChefsToque.label>
+  <!--A tall, round, pleated hat usually worn by the chefs-->
+  <VAE_Headgear_ChefsToque.description>Un sombrero alto, redondo y plisado que suelen llevar los chefs.</VAE_Headgear_ChefsToque.description>
+
+  <!--Armor-->
+  <!-- Balaclava -->
+  <VAE_Headgear_Balaclava.label>pasamontañas táctico</VAE_Headgear_Balaclava.label>
+  <!--A full face textile mask. Hides the mimic and makes hard to read -->
+  <VAE_Headgear_Balaclava.description>Una máscara textil que cubre la cara completa, exceptuando los ojos.</VAE_Headgear_Balaclava.description>
+
+  <!-- Night Vision goggles -->
+  <VAE_Headgear_NightVisionGoggles.label>gafas de visión nocturna</VAE_Headgear_NightVisionGoggles.label>
+  <!--A set of night vision goggles allowing the wearer to fire weapons with higher precision -->
+  <VAE_Headgear_NightVisionGoggles.description>Un juego de gafas de visión nocturna que permite al portador disparar armas con mayor precisión en la oscuridad.</VAE_Headgear_NightVisionGoggles.description>
+
+  <!-- Ballistic Goggles -->
+  <VAE_Headgear_BallisticGoggles.label>gafas blindadas</VAE_Headgear_BallisticGoggles.label>
+  <!--A pair of reinforced goggles capable of stopping a bullet -->
+  <VAE_Headgear_BallisticGoggles.description>Un par de gafas reforzadas capaces de detener una bala.</VAE_Headgear_BallisticGoggles.description>
+
+  <!-- Ghillie Hood -->
+
+  <VAE_Headgear_GhillieHood.label>capucha de camuflaje</VAE_Headgear_GhillieHood.label>
+  <!-- A camouflage hood designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence -->
+  <VAE_Headgear_GhillieHood.description>Una capucha de camuflaje diseñada para parecerse al entorno. Da al usuario más tiempo para apuntar con precisión, pero proporciona poca o ninguna defensa.</VAE_Headgear_GhillieHood.description>
+
+  <!-- HAZMAT mask -->
+
+  <VAE_Headgear_HAZMATMask.label>máscara HAZMAT</VAE_Headgear_HAZMATMask.label>
+  <!-- A full head gas mask, which alongside the HAZMAT suit provides a full protection from toxic and psychic effects -->
+  <VAE_Headgear_HAZMATMask.description>Una máscara de gas que protege la cabeza completa, que junto con el traje HAZMAT proporciona una protección completa de los efectos tóxicos y psíquicos.</VAE_Headgear_HAZMATMask.description>
+
+</LanguageData>

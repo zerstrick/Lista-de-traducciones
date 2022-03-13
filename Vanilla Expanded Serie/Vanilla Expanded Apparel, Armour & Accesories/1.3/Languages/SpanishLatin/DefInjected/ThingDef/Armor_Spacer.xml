@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Heavy Marine Helmet  -->
+  <VAE_Headgear_HeavyMarineHelmet.label>casco marine pesado</VAE_Headgear_HeavyMarineHelmet.label>
+  <!-- A heavy marine armor helmet, with double-layered plasteel plating and a built-in camera with a display HUD to get rid of the weakpoints like visors.\n\nArmor like this is often used by imperial heavy stormtroopers during mechanoid conflicts, as it transforms a soldier into a humanoid tank -->
+  <VAE_Headgear_HeavyMarineHelmet.description>Un casco pesado marine pesado, hecho de doble coraza de plastiacero y una cámara incorporada con una pantalla HUD, para reemplazar los puntos débiles como los visores tradicionales.\n\nEste tipo de equipamiento es utilizado a menudo por las tropas de asalto imperial durante los conflictos mecanóides, ya que transforma a un soldado normal en un tanque humano.</VAE_Headgear_HeavyMarineHelmet.description>
+
+  <!--  Heavy Marine Armor  -->
+  <VAE_Apparel_HeavyMarineArmor.label>armadura marine pesada</VAE_Apparel_HeavyMarineArmor.label>
+  <!-- A suit of heavy powered armor. Double layers of plasteel-weave plates are incredibly effective at both projectiles and explosions. Neuro-memetic assistors allow a human to wear the armor and still move easily. A built in blast shield allows wearer to survive a direct rocket hit, upon which the shields require time to recharge.\n\nArmor like this is often used by imperial heavy stormtroopers during mechanoid conflicts, as it transforms a soldier into a humanoid tank -->
+  <VAE_Apparel_HeavyMarineArmor.description>Un pesado traje de armadura motorizada. Las dobles corazas de placas de plastiacero son increíblemente eficaces tanto en los proyectiles como en las explosiones. Equipado con asistentes neurométricos que permiten al portador llevar y moverse con la armadura con facilidad. Un escudo antiexplosiones incorporado permite al portador sobrevivir a un impacto directo de cohete, sobre el cual los escudos requieren tiempo para recargarse.\n\nUna armadura como esta es a menudo utilizada por las tropas de asalto imperial durante los conflictos mecanóides, ya que transforma a un soldado normal en un tanque humano.</VAE_Apparel_HeavyMarineArmor.description>
+
+  <!--EN: trooper helmet -->
+  <VAE_Headgear_TrooperHelmet.label>casco de soldado</VAE_Headgear_TrooperHelmet.label>
+  <!--EN: A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces. -->
+  <VAE_Headgear_TrooperHelmet.description>Un casco blindado de alta tecnología y peso ligero con una placa protectora de tejido de plastiacero.\n\nUna armadura como esta es utilizada a menudo por los reclutas imperiales y las fuerzas militares de los últimos midworld.</VAE_Headgear_TrooperHelmet.description>
+
+  <!--EN: trooper armor -->
+  <VAE_Apparel_TrooperArmor.label>amadura de soldado</VAE_Apparel_TrooperArmor.label>
+  <!--EN: A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces. -->
+  <VAE_Apparel_TrooperArmor.description>Un ligero traje de armadura motorizada de potencia mínima. Las ligeras placas de tejido de plastiacero bloquean los ataques, y los asistentes neuromeméticos de la parte inferior del cuerpo redistribuyen el peso que lleva el usuario. Es más delgada que otras armaduras motorizadas y puede caber debajo de la ropa.\n\nUna armadura como esta la utilizan a menudo los reclutas imperiales y las fuerzas militares de los últimos midworld.</VAE_Apparel_TrooperArmor.description>
+
+  <!--EN: prestige trooper helmet -->
+  <VAE_Headgear_RoyalTrooperHelmet.label>casco de soldado prestigioso</VAE_Headgear_RoyalTrooperHelmet.label>
+  <!--EN: A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <VAE_Headgear_RoyalTrooperHelmet.description>Un casco blindado de alta tecnología y ligero con una placa protectora de tejido de plastiacero.\n\nCostoso y hermoso, un blindaje prestigioso como este generalmente está hecho para aquellas personas de alto estatus. Los hilos de eltex integrados también mejoran la sensibilidad psíquica del portador.</VAE_Headgear_RoyalTrooperHelmet.description>
+
+  <!--EN: prestige trooper armor -->
+  <VAE_Apparel_RoyalTrooperArmor.label>amadura de soldado prestigiosa</VAE_Apparel_RoyalTrooperArmor.label>
+  <!--EN: A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <VAE_Apparel_RoyalTrooperArmor.description>Un ligero traje de armadura motorizada de potencia mínima. Las ligeras placas de tejido de plastiacero bloquean los ataques y los asistentes neurométicos de la parte inferior del cuerpo redistribuyen el peso que lleva el usuario. Es más delgada que otras armaduras motorizadas y puede caber debajo de la ropa.\n\nCostoso y hermoso, un blindaje prestigioso como este generalmente está hecho para aquellas personas de alto estatus. Los hilos de eltex integrados también mejoran la sensibilidad psíquica del portador.</VAE_Apparel_RoyalTrooperArmor.description>
+
+  <!--EN: prestige siegebreaker helmet -->
+  <VAE_Headgear_RoyalSiegeHelmet.label>casco rompeasedio prestigioso</VAE_Headgear_RoyalSiegeHelmet.label>
+  <!--EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <VAE_Headgear_RoyalSiegeHelmet.description>Un casco de alta tecnología fuertemente blindado, con una sólida carcasa de tejido de plastiacero y una cámara de omniespectro\n\nCostoso y hermoso, un blindaje prestigioso como este generalmente está hecho para aquellas personas de alto estatus. Los hilos de eltex integrados también mejoran la sensibilidad psíquica del portador.</VAE_Headgear_RoyalSiegeHelmet.description>
+
+  <!--EN: prestige siegebreaker armor -->
+  <VAE_Apparel_RoyalSiegeArmor.label>amadura rompeasedio prestigiosa</VAE_Apparel_RoyalSiegeArmor.label>
+  <!--EN: A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <VAE_Apparel_RoyalSiegeArmor.description>Una upesada armadura motorizada, construida para aumentar la protección sin perder la movilidad. Las pesadas capas de placas de tejido de plastiacero combinadas con un emisor de escudo de energía incorporado detienen la mayoría de los ataques. Los asistentes neuromeméticos permiten a un humano llevar esta armadura sin inmovilizarlo por completo.\n\nCostoso y hermoso, un blindaje prestigioso como este generalmente está hecho para aquellas personas de alto estatus. Los hilos de eltex integrados también mejoran la sensibilidad psíquica del portador.</VAE_Apparel_RoyalSiegeArmor.description>
+  
+</LanguageData>

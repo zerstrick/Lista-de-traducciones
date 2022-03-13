@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- boots -->
+  <VAE_Footwear_Boots.label>botas</VAE_Footwear_Boots.label>
+  <!-- A simple pair of leather boots -->
+  <VAE_Footwear_Boots.description>Un simple par de botas de cuero.</VAE_Footwear_Boots.description>
+  
+  <!-- shoes -->
+  <VAE_Footwear_Shoes.label>zapatos</VAE_Footwear_Shoes.label>
+  <!-- A fancy pair of leather shoes -->
+  <VAE_Footwear_Shoes.description>Un elegante par de zapatos de cuero.</VAE_Footwear_Shoes.description>
+
+  <!-- Plate Boots -->
+  <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>
+  <!--  A pair of simple plate boots. Due to their weight, they slow down the wearer  -->
+  <VAE_Footwear_PlateBoots.description>Un par de simples botas de placas. Debido a su peso relentizan al usuario.</VAE_Footwear_PlateBoots.description>
+
+  <!-- Marine Boots -->
+  <VAE_Footwear_MarineBoots.label>botas marine</VAE_Footwear_MarineBoots.label>
+  <!-- A pair of marine boots with layered plasteel plates and enhanced servomotors -->
+  <VAE_Footwear_MarineBoots.description>Un par de botas marine hechas de placas de plastiacero, y servomotores mejorados.</VAE_Footwear_MarineBoots.description>
+  
+  </LanguageData>

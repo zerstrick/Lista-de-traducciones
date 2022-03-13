@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Español (Latino)</friendlyNameNative>
+  <friendlyNameEnglish>Latin American Spanish</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_Spanish</languageWorkerClass>
+  <credits>
+
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Zerstrick</creditee>
+    </li>
+
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Artorias</creditee>
+    </li>
+	
+	<li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Zakees</creditee>
+    </li>
+
+  </credits>
+</LanguageInfo>

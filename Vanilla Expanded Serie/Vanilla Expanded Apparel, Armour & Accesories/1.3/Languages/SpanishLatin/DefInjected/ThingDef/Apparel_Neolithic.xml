@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pelt Coat -->
+  <VAE_Apparel_PeltCoat.label>abrigo de piel</VAE_Apparel_PeltCoat.label>
+  <!-- A heavy coat insulated due to animal pelt, providing warmth and armor -->
+  <VAE_Apparel_PeltCoat.description>Un pesado abrigo hecho con la piel de un animal, proporciona calor y armadura.</VAE_Apparel_PeltCoat.description>
+
+  <!-- Tribal Poncho -->
+  <VAE_Apparel_TribalPoncho.label>poncho tribal</VAE_Apparel_TribalPoncho.label>
+  <!-- A poncho crafted using neolithic tools. While it may look primitive, it is effective at insulating the  -->
+  <VAE_Apparel_TribalPoncho.description>Un poncho hecho a mano con herramientas neolíticas. Aunque puede parecer primitivo, es efectivo para aislar el frío.</VAE_Apparel_TribalPoncho.description>
+
+  <!-- Tribal Kilt -->
+  <VAE_Apparel_TribalKilt.label>falda tribal</VAE_Apparel_TribalKilt.label>
+  <!-- A kilt crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer -->
+  <VAE_Apparel_TribalKilt.description>Una falda con un bonito diseño de cuadros hecha a mano con herramientas neolíticas. Aunque puede parecer primitiva, es efectiva para aislar al portador del frío.</VAE_Apparel_TribalKilt.description>
+
+  <!-- Hood -->
+  <VAE_Headgear_Hood.label>capucha</VAE_Headgear_Hood.label>
+  <!-- A thick hood made out of reinforced cloth or leather. Provides mediocre protection against cold and damage -->
+  <VAE_Headgear_Hood.description>Una gruesa capucha hecha de tela reforzada o cuero. Proporciona una protección mediocre contra el frío y los daños.</VAE_Headgear_Hood.description>
+
+</LanguageData>

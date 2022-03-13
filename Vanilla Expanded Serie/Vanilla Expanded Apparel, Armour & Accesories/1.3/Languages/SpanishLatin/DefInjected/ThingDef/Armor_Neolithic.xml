@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Armor -->
+  <VAE_Apparel_WoodenArmor.label>armadura de madera</VAE_Apparel_WoodenArmor.label>
+  <!--A vest with wooden logs and planks covering the front and back. Quite effective against small calibre gunshots and sharp melee weapons, but completely useless against blunt hits and rifle shots -->
+  <VAE_Apparel_WoodenArmor.description>Un peto hecho de troncos y tablas de madera que cubre la parte delantera y trasera. Bastante efectivo contra disparos de pequeño calibre y armas de combate cuerpo a cuerpo, pero completamente inútil contra golpes contundentes y disparos de rifle.</VAE_Apparel_WoodenArmor.description>
+
+  <!-- Stone War Mask -->
+  <VAE_Headgear_StoneWarMask.label>máscara de guerra de piedra</VAE_Headgear_StoneWarMask.label>
+  <!-- An artistically terrifying war mask. Hides the wearer's face and makes them more confident. Being made out of stone, it is very durable but also incredibly heavy -->
+  <VAE_Headgear_StoneWarMask.description>Una aterradora máscara de guerra. Esconde la cara del portador y lo hace más confiado. Al estar hecha de piedra, es muy duradera pero también increíblemente pesada.</VAE_Headgear_StoneWarMask.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--EN: ranged cooldown factor-->
+  <VAEA_RangedCooldownFactor.label>factor de enfriamiento a distancia</VAEA_RangedCooldownFactor.label>
+  <!--EN: The cooldown on ranged weapons of the wearer is multiplied by this value.-->
+  <VAEA_RangedCooldownFactor.description>El enfriamiento de las armas a distancia del portador se multiplica por este valor.</VAEA_RangedCooldownFactor.description>
+</LanguageData>

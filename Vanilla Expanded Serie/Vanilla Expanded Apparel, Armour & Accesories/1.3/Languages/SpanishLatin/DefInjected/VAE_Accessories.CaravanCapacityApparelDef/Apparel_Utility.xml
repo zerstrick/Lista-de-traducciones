@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--EN: backpack-->
+  <VAEA_Apparel_Backpack.label>mochila</VAEA_Apparel_Backpack.label>
+  <!--EN: A simple roomy backpack. Greatly increases the carry capacity of the wearer.-->
+  <VAEA_Apparel_Backpack.description>Una mochila sencilla y espaciosa. Aumenta en gran medida la capacidad de transporte del usuario.</VAEA_Apparel_Backpack.description>
+</LanguageData>

@@ -4,7 +4,6 @@
   <!--Recipe Users: ElectricTailoringBench, HandTailoringBench -->
   <!--Apparel Industrial -->
   <!--EN: Casual T-Shirt -->
-
   <Make_VAE_Apparel_CasualTShirt.label>confeccionar camiseta casual</Make_VAE_Apparel_CasualTShirt.label>
   <Make_VAE_Apparel_CasualTShirt.description>Confecciona una camiseta casual.</Make_VAE_Apparel_CasualTShirt.description>
   <Make_VAE_Apparel_CasualTShirt.jobString>Confeccionando camiseta casual.</Make_VAE_Apparel_CasualTShirt.jobString>
@@ -32,7 +31,7 @@
   <!--EN: Suit Jacket -->
   <Make_VAE_Apparel_SuitJacket.label>confeccionar chaqueta de traje</Make_VAE_Apparel_SuitJacket.label>
   <Make_VAE_Apparel_SuitJacket.description>Confecciona una chaqueta de traje.</Make_VAE_Apparel_SuitJacket.description>
-  <Make_VAE_Apparel_SuitJacket.jobString>chaqueta de traje.</Make_VAE_Apparel_SuitJacket.jobString>
+  <Make_VAE_Apparel_SuitJacket.jobString>Confeccionando chaqueta de traje.</Make_VAE_Apparel_SuitJacket.jobString>
 
   <!--EN: Trousers -->
   <Make_VAE_Apparel_Trousers.label>confeccionar pantalones de vestir</Make_VAE_Apparel_Trousers.label>
@@ -75,9 +74,9 @@
   <Make_VAE_Apparel_MilitaryUniform.jobString>Confeccionando uniforme militar.</Make_VAE_Apparel_MilitaryUniform.jobString>
 
   <!--EN: Builders Jacket -->
-  <Make_VAE_Apparel_BuildersJacket.label>confeccionar chaqueta de construcción</Make_VAE_Apparel_BuildersJacket.label>
-  <Make_VAE_Apparel_BuildersJacket.description>Confecciona una chaqueta de construcción.</Make_VAE_Apparel_BuildersJacket.description>
-  <Make_VAE_Apparel_BuildersJacket.jobString>chaqueta de construcción.</Make_VAE_Apparel_BuildersJacket.jobString>
+  <Make_VAE_Apparel_BuildersJacket.label>confeccionar chaqueta de constructor</Make_VAE_Apparel_BuildersJacket.label>
+  <Make_VAE_Apparel_BuildersJacket.description>Confecciona una chaqueta de constructor.</Make_VAE_Apparel_BuildersJacket.description>
+  <Make_VAE_Apparel_BuildersJacket.jobString>Confeccionando chaqueta de constructor.</Make_VAE_Apparel_BuildersJacket.jobString>
 
   <!--EN: Doctor Scrubs -->
   <Make_VAE_Apparel_DoctorScrubs.label>confeccionar bata médica</Make_VAE_Apparel_DoctorScrubs.label>
@@ -193,9 +192,9 @@
   <Make_VAE_Headgear_Sunglasses.jobString>Fabricando gafas de sol.</Make_VAE_Headgear_Sunglasses.jobString>
 
   <!--EN: Glasses -->
-  <Make_VAE_Headgear_Glasses.label>fabricar anteojos</Make_VAE_Headgear_Glasses.label>
-  <Make_VAE_Headgear_Glasses.description>Fabrica unos anteojos.</Make_VAE_Headgear_Glasses.description>
-  <Make_VAE_Headgear_Glasses.jobString>Fabricando anteojos.</Make_VAE_Headgear_Glasses.jobString>
+  <Make_VAE_Headgear_Glasses.label>fabricar gafas</Make_VAE_Headgear_Glasses.label>
+  <Make_VAE_Headgear_Glasses.description>Fabrica unas gafas.</Make_VAE_Headgear_Glasses.description>
+  <Make_VAE_Headgear_Glasses.jobString>Fabricando gafas.</Make_VAE_Headgear_Glasses.jobString>
 
   <!--EN: Chefs Toque -->
   <Make_VAE_Headgear_ChefsToque.label>confeccionar gorro de chef</Make_VAE_Headgear_ChefsToque.label>
@@ -209,9 +208,9 @@
   <Make_VAE_Footwear_PlateBoots.jobString>Fabricando botas de placas.</Make_VAE_Footwear_PlateBoots.jobString>
 
   <!--EN: Marine Boots -->
-  <Make_VAE_Footwear_MarineBoots.label>fabricar botas de servoarmadura</Make_VAE_Footwear_MarineBoots.label>
-  <Make_VAE_Footwear_MarineBoots.description>Fabrica un par de botas de servoarmadura.</Make_VAE_Footwear_MarineBoots.description>
-  <Make_VAE_Footwear_MarineBoots.jobString>Fabricando botas de servoarmadura.</Make_VAE_Footwear_MarineBoots.jobString>
+  <Make_VAE_Footwear_MarineBoots.label>fabricar botas marine</Make_VAE_Footwear_MarineBoots.label>
+  <Make_VAE_Footwear_MarineBoots.description>Fabrica un par de botas marine.</Make_VAE_Footwear_MarineBoots.description>
+  <Make_VAE_Footwear_MarineBoots.jobString>Fabricando botas marine.</Make_VAE_Footwear_MarineBoots.jobString>
 
   <!--EN: Plate Gloves -->
   <Make_VAE_Handwear_PlateGloves.label>fabricar guantes de placas</Make_VAE_Handwear_PlateGloves.label>
@@ -219,9 +218,9 @@
   <Make_VAE_Handwear_PlateGloves.jobString>Fabricando guantes de placas.</Make_VAE_Handwear_PlateGloves.jobString>
 
   <!--EN: Marine Gloves -->
-  <Make_VAE_Handwear_MarineGloves.label>fabricar guantes de servoarmadura</Make_VAE_Handwear_MarineGloves.label>
-  <Make_VAE_Handwear_MarineGloves.description>Fabrica un par de guantes de servoarmadura.</Make_VAE_Handwear_MarineGloves.description>
-  <Make_VAE_Handwear_MarineGloves.jobString>Fabricando guantes de servoarmadura.</Make_VAE_Handwear_MarineGloves.jobString>
+  <Make_VAE_Handwear_MarineGloves.label>fabricar guantes marine</Make_VAE_Handwear_MarineGloves.label>
+  <Make_VAE_Handwear_MarineGloves.description>Fabrica un par de guantes marine.</Make_VAE_Handwear_MarineGloves.description>
+  <Make_VAE_Handwear_MarineGloves.jobString>Fabricando guantes marine.</Make_VAE_Handwear_MarineGloves.jobString>
 
   <!--Apparel Industrial -->
   <!--EN: Bulletproof Vest -->
@@ -257,7 +256,7 @@
 
   <!--EN: Light Plate Armor -->
   <Make_VAE_Apparel_LightPlateArmor.label>fabricar armadura de placas ligera</Make_VAE_Apparel_LightPlateArmor.label>
-  <Make_VAE_Apparel_LightPlateArmor.description>Fabrica un armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.description>
+  <Make_VAE_Apparel_LightPlateArmor.description>Fabrica una armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.description>
   <Make_VAE_Apparel_LightPlateArmor.jobString>Fabricando armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.jobString>
 
   <!--EN: Plate Shoulderpads -->
@@ -293,14 +292,14 @@
 
   <!--Apparel Spacer -->
   <!--EN: Heavy Marine Helmet -->
-  <Make_VAE_Headgear_HeavyMarineHelmet.label>fabricar casco de servoarmadura pesado</Make_VAE_Headgear_HeavyMarineHelmet.label>
-  <Make_VAE_Headgear_HeavyMarineHelmet.description>Fabrica un casco de servoarmadura pesado.</Make_VAE_Headgear_HeavyMarineHelmet.description>
-  <Make_VAE_Headgear_HeavyMarineHelmet.jobString>Fabricando casco de servoarmadura pesado.</Make_VAE_Headgear_HeavyMarineHelmet.jobString>
+  <Make_VAE_Headgear_HeavyMarineHelmet.label>fabricar casco marine pesado</Make_VAE_Headgear_HeavyMarineHelmet.label>
+  <Make_VAE_Headgear_HeavyMarineHelmet.description>Fabrica un casco marine pesado.</Make_VAE_Headgear_HeavyMarineHelmet.description>
+  <Make_VAE_Headgear_HeavyMarineHelmet.jobString>Fabricando casco marine pesado.</Make_VAE_Headgear_HeavyMarineHelmet.jobString>
 
   <!--EN: Heavy Marine Armor -->
-  <Make_VAE_Apparel_HeavyMarineArmor.label>fabricar servoarmadura pesada</Make_VAE_Apparel_HeavyMarineArmor.label>
-  <Make_VAE_Apparel_HeavyMarineArmor.description>Fabrica una servoarmadura pesada.</Make_VAE_Apparel_HeavyMarineArmor.description>
-  <Make_VAE_Apparel_HeavyMarineArmor.jobString>Fabricando servoarmadura pesada.</Make_VAE_Apparel_HeavyMarineArmor.jobString>
+  <Make_VAE_Apparel_HeavyMarineArmor.label>fabricar armadura marine pesada</Make_VAE_Apparel_HeavyMarineArmor.label>
+  <Make_VAE_Apparel_HeavyMarineArmor.description>Fabrica una armadura marine pesada.</Make_VAE_Apparel_HeavyMarineArmor.description>
+  <Make_VAE_Apparel_HeavyMarineArmor.jobString>Fabricando armadura marine pesada.</Make_VAE_Apparel_HeavyMarineArmor.jobString>
 
   <!--Apparel Headgear_Industrial -->
   <!--EN: Balaclava -->
@@ -334,9 +333,9 @@
   <Make_VAE_Headgear_TrooperHelmet.jobString>Fabricando casco de soldado.</Make_VAE_Headgear_TrooperHelmet.jobString>
 
    <!--EN: trooper armor -->
-  <Make_VAE_Apparel_TrooperArmor.label>fabricar servoamadura de soldado</Make_VAE_Apparel_TrooperArmor.label>
-  <Make_VAE_Apparel_TrooperArmor.description>Fabrica una servoamadura de soldado.</Make_VAE_Apparel_TrooperArmor.description>
-  <Make_VAE_Apparel_TrooperArmor.jobString>Fabricando servoamadura de soldado.</Make_VAE_Apparel_TrooperArmor.jobString>
+  <Make_VAE_Apparel_TrooperArmor.label>fabricar amadura de soldado</Make_VAE_Apparel_TrooperArmor.label>
+  <Make_VAE_Apparel_TrooperArmor.description>Fabrica una amadura de soldado.</Make_VAE_Apparel_TrooperArmor.description>
+  <Make_VAE_Apparel_TrooperArmor.jobString>Fabricando amadura de soldado.</Make_VAE_Apparel_TrooperArmor.jobString>
 
   <!--EN: prestige trooper helmet -->
   <Make_VAE_Headgear_RoyalTrooperHelmet.label>fabricar casco de soldado prestigioso</Make_VAE_Headgear_RoyalTrooperHelmet.label>
@@ -344,19 +343,19 @@
   <Make_VAE_Headgear_RoyalTrooperHelmet.jobString>Fabricando casco de soldado prestigioso.</Make_VAE_Headgear_RoyalTrooperHelmet.jobString>
 
   <!--EN: prestige trooper armor -->
-  <Make_VAE_Apparel_RoyalTrooperArmor.label>fabricar servoamadura de soldado prestigiosa</Make_VAE_Apparel_RoyalTrooperArmor.label>
-  <Make_VAE_Apparel_RoyalTrooperArmor.description>Fabrica una servoamadura de soldado prestigiosa.</Make_VAE_Apparel_RoyalTrooperArmor.description>
-  <Make_VAE_Apparel_RoyalTrooperArmor.jobString>Fabricando servoamadura de soldado prestigiosa.</Make_VAE_Apparel_RoyalTrooperArmor.jobString>
+  <Make_VAE_Apparel_RoyalTrooperArmor.label>fabricar amadura de soldado prestigiosa</Make_VAE_Apparel_RoyalTrooperArmor.label>
+  <Make_VAE_Apparel_RoyalTrooperArmor.description>Fabrica una amadura de soldado prestigiosa.</Make_VAE_Apparel_RoyalTrooperArmor.description>
+  <Make_VAE_Apparel_RoyalTrooperArmor.jobString>Fabricando amadura de soldado prestigiosa.</Make_VAE_Apparel_RoyalTrooperArmor.jobString>
 
   <!--EN: prestige siegebreaker helmet -->
-  <Make_VAE_Headgear_RoyalSiegeHelmet.label>fabricar casco rompe-asedios prestigioso</Make_VAE_Headgear_RoyalSiegeHelmet.label>
-  <Make_VAE_Headgear_RoyalSiegeHelmet.description>Fabrica un casco rompe-asedios prestigioso.</Make_VAE_Headgear_RoyalSiegeHelmet.description>
-  <Make_VAE_Headgear_RoyalSiegeHelmet.jobString>Fabricando casco rompe-asedios prestigioso.</Make_VAE_Headgear_RoyalSiegeHelmet.jobString>
+  <Make_VAE_Headgear_RoyalSiegeHelmet.label>fabricar casco rompeasedio prestigioso</Make_VAE_Headgear_RoyalSiegeHelmet.label>
+  <Make_VAE_Headgear_RoyalSiegeHelmet.description>Fabrica un casco rompeasedio prestigioso.</Make_VAE_Headgear_RoyalSiegeHelmet.description>
+  <Make_VAE_Headgear_RoyalSiegeHelmet.jobString>Fabricando casco rompeasedio prestigioso.</Make_VAE_Headgear_RoyalSiegeHelmet.jobString>
 
   <!--EN: prestige siegebreaker armor -->
-  <Make_VAE_Apparel_RoyalSiegeArmor.label>fabricar servoamadura rompe-asedios prestigiosa</Make_VAE_Apparel_RoyalSiegeArmor.label>
-  <Make_VAE_Apparel_RoyalSiegeArmor.description>Fabrica una servoamadura rompe-asedios prestigiosa.</Make_VAE_Apparel_RoyalSiegeArmor.description>
-  <Make_VAE_Apparel_RoyalSiegeArmor.jobString>Fabricando servoamadura rompe-asedios prestigiosa.</Make_VAE_Apparel_RoyalSiegeArmor.jobString>
+  <Make_VAE_Apparel_RoyalSiegeArmor.label>fabricar amadura rompeasedio prestigiosa</Make_VAE_Apparel_RoyalSiegeArmor.label>
+  <Make_VAE_Apparel_RoyalSiegeArmor.description>Fabrica una amadura rompeasedio prestigiosa.</Make_VAE_Apparel_RoyalSiegeArmor.description>
+  <Make_VAE_Apparel_RoyalSiegeArmor.jobString>Fabricando amadura rompeasedio prestigiosa.</Make_VAE_Apparel_RoyalSiegeArmor.jobString>
 
   <!--EN: Vanilla Accesories Expanded -->
   <!--EN: quiver -->

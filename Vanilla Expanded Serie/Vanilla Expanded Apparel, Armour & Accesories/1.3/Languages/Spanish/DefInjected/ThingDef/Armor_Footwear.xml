@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plate Boots -->
+  <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>
+  <!--  A pair of simple plate boots. Due to their weight, they slow down the wearer  -->
+  <VAE_Footwear_PlateBoots.description>Un par de botas de placas. Debido a su peso relentizan al usuario.</VAE_Footwear_PlateBoots.description>
+
+  <!-- Marine Boots -->
+  <VAE_Footwear_MarineBoots.label>botas de servoarmadura</VAE_Footwear_MarineBoots.label>
+  <!-- A pair of marine boots with layered plasteel plates and enhanced servomotors -->
+  <VAE_Footwear_MarineBoots.description>Un par de botas de servoarmadura hechas de placas de plastiacero y servomotores mejorados.</VAE_Footwear_MarineBoots.description>
+
+</LanguageData>
