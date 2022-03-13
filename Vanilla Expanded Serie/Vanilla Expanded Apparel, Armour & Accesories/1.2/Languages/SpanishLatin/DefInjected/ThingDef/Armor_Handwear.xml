@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Plate Gloves +++++ -->
+
+  <VAE_Handwear_PlateGloves.label>guantes de placas</VAE_Handwear_PlateGloves.label>
+  <!-- A pair of simple metal gloves. Due to the thickness of the material, they reduce general work speed of the wearer -->
+  <VAE_Handwear_PlateGloves.description>Un par de simples guantes de metal. Debido al grosor del material, reducen la velocidad general de trabajo del portador.</VAE_Handwear_PlateGloves.description>
+
+
+  <!-- +++++ Marine Gloves +++++ -->
+
+  <VAE_Handwear_MarineGloves.label>guantes de servoarmadura</VAE_Handwear_MarineGloves.label>
+  <!-- A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers -->
+  <VAE_Handwear_MarineGloves.description>Un par de guantes de servoarmadura con asistencia de agarre mejorada y un juego de estabilizadores de retroceso incorporados.</VAE_Handwear_MarineGloves.description>
+
+
+</LanguageData>

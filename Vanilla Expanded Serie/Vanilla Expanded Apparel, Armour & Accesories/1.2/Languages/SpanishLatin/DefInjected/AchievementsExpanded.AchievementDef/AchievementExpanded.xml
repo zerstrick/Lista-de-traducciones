@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: JUGGERNAUT! -->
+	<Juggernaut.label>¡EL JUGGERNAUT!</Juggernaut.label>
+	<!-- EN: Craft a masterwork stone war mask -->
+	<Juggernaut.description>Fabrica una máscara de guerra de piedra de calidad magistral</Juggernaut.description>
+	<!-- EN: I Don't See Anyone! -->
+	<iDontSeeAnyone.label>¡No Veo a Nadie!</iDontSeeAnyone.label>
+	<!-- EN: Craft a ghillie suit -->
+	<iDontSeeAnyone.description>Fabrica un traje de camuflaje</iDontSeeAnyone.description>
+	<!-- EN: Not Great, not Terrible -->
+	<notGreatNotTerrible.label>Ni Genial, Ni Terrible</notGreatNotTerrible.label>
+	<!-- EN: Craft 6 HAZMAT suits -->
+	<notGreatNotTerrible.description>Fabrica 6 trajes HAZMAT</notGreatNotTerrible.description>
+	<!-- EN: Leather? That's Kinky -->
+	<leatherThatsKinky.label>¿Cuero? eso es pervertido</leatherThatsKinky.label>
+	<!-- EN: Research leather tanning -->
+	<leatherThatsKinky.description>Investigar el cuero curtido</leatherThatsKinky.description>
+	<!-- EN: Sierra 117 -->
+	<sierra117.label>Sierra 117</sierra117.label>
+	<!-- EN: Craft a masterwork quality heavy marine armor -->
+	<sierra117.description>Fabrica una servoarmadura pesada de calidad magistral</sierra117.description>
+</LanguageData>

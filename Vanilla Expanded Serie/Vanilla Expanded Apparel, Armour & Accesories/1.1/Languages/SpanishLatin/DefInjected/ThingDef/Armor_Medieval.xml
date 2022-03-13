@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Gambeson +++++ -->
+
+  <VAE_Apparel_Gambeson.label>gambesón</VAE_Apparel_Gambeson.label>
+  <!--A padded defensive jacket providing medium isolation from cold temperatures -->
+  <VAE_Apparel_Gambeson.description>Una chaqueta defensiva acolchada que proporciona un aislamiento medio de las temperaturas frías.</VAE_Apparel_Gambeson.description>
+
+
+  <!-- +++++ Quilted Vest +++++ -->
+
+  <VAE_Apparel_QuiltedVest.label>chaleco acolchado</VAE_Apparel_QuiltedVest.label>
+  <!--A quilted defensive vest to be worn under armour for extra protection -->
+  <VAE_Apparel_QuiltedVest.description>Un chaleco defensivo acolchado para ser usado bajo la armadura para otorgar protección extra.</VAE_Apparel_QuiltedVest.description>
+
+
+  <!-- +++++ Light Plate Armor +++++ -->
+
+  <VAE_Apparel_LightPlateArmor.label>armadura de placas ligera</VAE_Apparel_LightPlateArmor.label>
+  <!--Overlapping solid plates of armor covering the chest and shoulders -->
+  <VAE_Apparel_LightPlateArmor.description>Una armadura ligera hecha de placas sólidas superpuestas que cubren el pecho y los hombros.</VAE_Apparel_LightPlateArmor.description>
+
+
+  <!-- +++++ Plate Shoulderpads +++++ -->
+
+  <VAE_Apparel_PlateShoulderpads.label>hombreras de placas</VAE_Apparel_PlateShoulderpads.label>
+  <!--A pair of simple metal shoulder plates -->
+  <VAE_Apparel_PlateShoulderpads.description>Un par de placas de metal que protegen los hombros.</VAE_Apparel_PlateShoulderpads.description>
+
+
+  <!-- +++++ Chestplate +++++ -->
+
+  <VAE_Apparel_Chestplate.label>peto de placas</VAE_Apparel_Chestplate.label>
+  <!--A metal chest plate providing the wearer with a high protection against most damage but limiting the movement considerably -->
+  <VAE_Apparel_Chestplate.description>Una placa de metal en el pecho que proporciona al portador una gran protección contra la mayoría de los daños, pero, limita el movimiento considerablemente.</VAE_Apparel_Chestplate.description>
+
+
+  <!-- +++++ Chainmail +++++ -->
+
+  <VAE_Apparel_Chainmail.label>cota de malla</VAE_Apparel_Chainmail.label>
+  <!--An armor made of small metal rings joined together to form a mesh, separated from the body with a fabric padding -->
+  <VAE_Apparel_Chainmail.description>Una armadura hecha de pequeños anillos metálicos unidos entre sí formando una malla, separada del cuerpo con un acolchado de tela.</VAE_Apparel_Chainmail.description>
+
+
+  <!-- +++++ Plate Helmet +++++ -->
+
+  <VAE_Apparel_PlateHelmet.label>casco de placas</VAE_Apparel_PlateHelmet.label>
+  <!--A plate helmet which gives moderate protection against sharp attacks -->
+  <VAE_Apparel_PlateHelmet.description>Un casco de placa que da una protección moderada contra los ataques bruscos.</VAE_Apparel_PlateHelmet.description>
+
+
+</LanguageData>

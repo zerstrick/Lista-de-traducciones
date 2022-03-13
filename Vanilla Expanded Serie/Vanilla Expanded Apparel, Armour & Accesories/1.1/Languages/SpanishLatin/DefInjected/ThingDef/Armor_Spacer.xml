@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Light Marine Helmet +++++ -->
+
+  <VAE_Headgear_LightMarineHelmet.label>casco de servoarmadura ligero</VAE_Headgear_LightMarineHelmet.label>
+  
+  
+  <!-- A light marine armor helmet, providing wearer with advanced situational awareness and protection despite having an exposed lower half of the face.\n\nArmor like this is often used by imperial scouting parties -->
+  <VAE_Headgear_LightMarineHelmet.description>Un casco de servoarmadura ligero, que proporciona al usuario un conocimiento avanzado de la situación y protección a pesar de tener la mitad inferior del rostro expuesta.\n\nEste tipo de equipamiento es usado a menudo por los grupos de exploradores imperiales.</VAE_Headgear_LightMarineHelmet.description>
+
+
+  <!-- +++++ Light Marine Armor +++++ -->
+
+  <VAE_Apparel_LightMarineArmor.label>servoarmadura ligera</VAE_Apparel_LightMarineArmor.label>
+  <!-- A suit of light semi-powered armor. Thin plasteel plates are effective at stopping small calibre gunshots and melee attacks whilst also permitting the user to move quickly and undetected.\n\nArmor like this is often used by imperial scouting parties -->
+  <VAE_Apparel_LightMarineArmor.description>Un traje de servoarmadura ligera semi-potente. Las placas de plastiacero son efectivas para detener disparos de pequeño calibre y ataques cuerpo a cuerpo, permitiendo al usuario moverse rápidamente y sin ser detectado.\n\nUna armadura como esta es usada a menudo por los grupos de exploradores imperiales.</VAE_Apparel_LightMarineArmor.description>
+
+
+  <!-- +++++ Heavy Marine Helmet +++++ -->
+
+  <VAE_Headgear_HeavyMarineHelmet.label>casco de servoarmadura pesado</VAE_Headgear_HeavyMarineHelmet.label>
+  <!-- A heavy marine armor helmet, with double-layered plasteel plating and a built-in camera with a display HUD to get rid of the weakpoints like visors.\n\nArmor like this is often used by imperial heavy stormtroopers during mechanoid conflicts, as it transforms a soldier into a humanoid tank -->
+  <VAE_Headgear_HeavyMarineHelmet.description>Un casco pesado de servoarmadura pesada, hecho de doble coraza de plastiacero y una cámara incorporada con una pantalla HUD, para reemplazar los puntos débiles como los visores tradicionales.\n\nEste tipo de equipamiento es utilizado a menudo por las tropas de asalto imperial durante los conflictos mecanóides, ya que transforma a un soldado normal en un tanque humano.</VAE_Headgear_HeavyMarineHelmet.description>
+
+
+  <!-- +++++ Heavy Marine Armor +++++ -->
+
+  <VAE_Apparel_HeavyMarineArmor.label>servoarmadura pesada</VAE_Apparel_HeavyMarineArmor.label>
+  <!-- A suit of heavy powered armor. Double layers of plasteel-weave plates are incredibly effective at both projectiles and explosions. Neuro-memetic assistors allow a human to wear the armor and still move easily. A built in blast shield allows wearer to survive a direct rocket hit, upon which the shields require time to recharge.\n\nArmor like this is often used by imperial heavy stormtroopers during mechanoid conflicts, as it transforms a soldier into a humanoid tank -->
+  <VAE_Apparel_HeavyMarineArmor.description>Traje de servoarmadura pesada. Las dobles corazas de placas de plastiacero son increíblemente eficaces tanto en los proyectiles como en las explosiones. Equipado con asistentes neurométricos que permiten al portador llevar y moverse con la armadura con facilidad. Un escudo antiexplosiones incorporado permite al portador sobrevivir a un impacto directo de cohete, sobre el cual los escudos requieren tiempo para recargarse.\n\nUna armadura como esta es a menudo utilizada por las tropas de asalto imperial durante los conflictos mecanóides, ya que transforma a un soldado normal en un tanque humano.</VAE_Apparel_HeavyMarineArmor.description>
+
+
+</LanguageData>

@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+  <!--Apparel Industrial -->
+  <!--EN: Casual T-Shirt -->
+
+  <Make_VAE_Apparel_CasualTShirt.label>confeccionar camiseta casual</Make_VAE_Apparel_CasualTShirt.label>
+  <Make_VAE_Apparel_CasualTShirt.description>Confecciona una camiseta casual.</Make_VAE_Apparel_CasualTShirt.description>
+  <Make_VAE_Apparel_CasualTShirt.jobString>Confeccionando camiseta casual.</Make_VAE_Apparel_CasualTShirt.jobString>
+
+
+   <!--EN: Hoodie -->
+
+  <Make_VAE_Apparel_Hoodie.label>confeccionar sudadera con capucha</Make_VAE_Apparel_Hoodie.label>
+  <Make_VAE_Apparel_Hoodie.description>Confecciona una sudadera con capucha.</Make_VAE_Apparel_Hoodie.description>
+  <Make_VAE_Apparel_Hoodie.jobString>Confeccionando sudadera con capucha.</Make_VAE_Apparel_Hoodie.jobString>
+
+
+  <!--EN: Shorts -->
+
+  <Make_VAE_Apparel_Shorts.label>confeccionar shorts</Make_VAE_Apparel_Shorts.label>
+  <Make_VAE_Apparel_Shorts.description>Confecciona unos shorts.</Make_VAE_Apparel_Shorts.description>
+  <Make_VAE_Apparel_Shorts.jobString>Confeccionando shorts.</Make_VAE_Apparel_Shorts.jobString>
+
+
+  <!--EN: Skirt -->
+
+  <Make_VAE_Apparel_Skirt.label>confeccionar falda</Make_VAE_Apparel_Skirt.label>
+  <Make_VAE_Apparel_Skirt.description>Confecciona una falda.</Make_VAE_Apparel_Skirt.description>
+  <Make_VAE_Apparel_Skirt.jobString>Confeccionando falda.</Make_VAE_Apparel_Skirt.jobString>
+
+
+  <!--EN: Shirt and Tie -->
+
+  <Make_VAE_Apparel_ShirtandTie.label>confeccionar camisa con corbata</Make_VAE_Apparel_ShirtandTie.label>
+  <Make_VAE_Apparel_ShirtandTie.description>Confecciona una camisa con corbata.</Make_VAE_Apparel_ShirtandTie.description>
+  <Make_VAE_Apparel_ShirtandTie.jobString>Confeccionando camisa con corbata.</Make_VAE_Apparel_ShirtandTie.jobString>
+
+
+  <!--EN: Suit Jacket -->
+
+  <Make_VAE_Apparel_SuitJacket.label>confeccionar chaqueta de traje</Make_VAE_Apparel_SuitJacket.label>
+  <Make_VAE_Apparel_SuitJacket.description>Confecciona una chaqueta de traje.</Make_VAE_Apparel_SuitJacket.description>
+  <Make_VAE_Apparel_SuitJacket.jobString>chaqueta de traje.</Make_VAE_Apparel_SuitJacket.jobString>
+
+
+  <!--EN: Trousers -->
+
+  <Make_VAE_Apparel_Trousers.label>confeccionar pantalones de vestir</Make_VAE_Apparel_Trousers.label>
+  <Make_VAE_Apparel_Trousers.description>Confecciona unos pantalones de vestir.</Make_VAE_Apparel_Trousers.description>
+  <Make_VAE_Apparel_Trousers.jobString>Confeccionando pantalones de vestir.</Make_VAE_Apparel_Trousers.jobString>
+
+
+  <!--EN: Fedora -->
+
+  <Make_VAE_Headgear_Fedora.label>confeccionar fedora</Make_VAE_Headgear_Fedora.label>
+  <Make_VAE_Headgear_Fedora.description>Confecciona una fedora.</Make_VAE_Headgear_Fedora.description>
+  <Make_VAE_Headgear_Fedora.jobString>Confeccionando fedora.</Make_VAE_Headgear_Fedora.jobString>
+
+
+  <!--EN: Overalls -->
+
+  <Make_VAE_Apparel_Overalls.label>confeccionar overol</Make_VAE_Apparel_Overalls.label>
+  <Make_VAE_Apparel_Overalls.description>Confecciona un overol.</Make_VAE_Apparel_Overalls.description>
+  <Make_VAE_Apparel_Overalls.jobString>Confeccionando overol.</Make_VAE_Apparel_Overalls.jobString>
+
+
+  <!--EN: Fleece Shirt -->
+
+  <Make_VAE_Apparel_FleeceShirt.label>confeccionar camisa de lana</Make_VAE_Apparel_FleeceShirt.label>
+  <Make_VAE_Apparel_FleeceShirt.description>Confecciona una camisa de lana.</Make_VAE_Apparel_FleeceShirt.description>
+  <Make_VAE_Apparel_FleeceShirt.jobString>Confeccionando camisa de lana.</Make_VAE_Apparel_FleeceShirt.jobString>
+
+
+  <!--EN: Jeans -->
+
+  <Make_VAE_Apparel_Jeans.label>confeccionar jeans</Make_VAE_Apparel_Jeans.label>
+  <Make_VAE_Apparel_Jeans.description>Confecciona unos jeans.</Make_VAE_Apparel_Jeans.description>
+  <Make_VAE_Apparel_Jeans.jobString>Confeccionando jeans.</Make_VAE_Apparel_Jeans.jobString>
+
+
+  <!--EN: Chefs Uniform -->
+
+  <Make_VAE_Apparel_ChefsUniform.label>confeccionar uniforme de Chef</Make_VAE_Apparel_ChefsUniform.label>
+  <Make_VAE_Apparel_ChefsUniform.description>Confecciona un uniforme de Chef.</Make_VAE_Apparel_ChefsUniform.description>
+  <Make_VAE_Apparel_ChefsUniform.jobString>Confeccionando uniforme de Chef.</Make_VAE_Apparel_ChefsUniform.jobString>
+
+
+  <!--EN: Military Jacket -->
+
+  <Make_VAE_Apparel_MilitaryJacket.label>confeccionar chaqueta militar</Make_VAE_Apparel_MilitaryJacket.label>
+  <Make_VAE_Apparel_MilitaryJacket.description>Confecciona una chaqueta militar.</Make_VAE_Apparel_MilitaryJacket.description>
+  <Make_VAE_Apparel_MilitaryJacket.jobString>Confeccionando chaqueta militar.</Make_VAE_Apparel_MilitaryJacket.jobString>
+
+
+  <!--EN: Military Uniform -->
+
+  <Make_VAE_Apparel_MilitaryUniform.label>confeccionar uniforme militar</Make_VAE_Apparel_MilitaryUniform.label>
+  <Make_VAE_Apparel_MilitaryUniform.description>Confecciona un uniforme militar.</Make_VAE_Apparel_MilitaryUniform.description>
+  <Make_VAE_Apparel_MilitaryUniform.jobString>Confeccionando uniforme militar.</Make_VAE_Apparel_MilitaryUniform.jobString>
+
+
+  <!--EN: Builders Jacket -->
+
+  <Make_VAE_Apparel_BuildersJacket.label>confeccionar chaqueta de construcción</Make_VAE_Apparel_BuildersJacket.label>
+  <Make_VAE_Apparel_BuildersJacket.description>Confecciona una chaqueta de construcción.</Make_VAE_Apparel_BuildersJacket.description>
+  <Make_VAE_Apparel_BuildersJacket.jobString>chaqueta de construcción.</Make_VAE_Apparel_BuildersJacket.jobString>
+
+
+  <!--EN: Doctor Scrubs -->
+
+  <Make_VAE_Apparel_DoctorScrubs.label>confeccionar bata médica</Make_VAE_Apparel_DoctorScrubs.label>
+  <Make_VAE_Apparel_DoctorScrubs.description>Confecciona una bata médica.</Make_VAE_Apparel_DoctorScrubs.description>
+  <Make_VAE_Apparel_DoctorScrubs.jobString>Confeccionando bata médica.</Make_VAE_Apparel_DoctorScrubs.jobString>
+
+
+  <!--EN: Lab Coat -->
+
+  <Make_VAE_Apparel_LabCoat.label>confeccionar bata de laboratorio</Make_VAE_Apparel_LabCoat.label>
+  <Make_VAE_Apparel_LabCoat.description>Confecciona una bata de laboratorio.</Make_VAE_Apparel_LabCoat.description>
+  <Make_VAE_Apparel_LabCoat.jobString>Confeccionando bata de laboratorio.</Make_VAE_Apparel_LabCoat.jobString>
+
+
+  <!--EN: Tank Top -->
+
+  <Make_VAE_Apparel_TankTop.label>confeccionar camiseta sin mangas</Make_VAE_Apparel_TankTop.label>
+  <Make_VAE_Apparel_TankTop.description>Confecciona una camiseta sin mangas.</Make_VAE_Apparel_TankTop.description>
+  <Make_VAE_Apparel_TankTop.jobString>Confeccionando camiseta sin mangas.</Make_VAE_Apparel_TankTop.jobString>
+
+  
+  <!--EN: Sheriff Shirt -->
+
+  <Make_VAE_Apparel_SheriffShirt.label>confeccionar camisa de comisario</Make_VAE_Apparel_SheriffShirt.label>
+  <Make_VAE_Apparel_SheriffShirt.description>Confecciona una camisa de comisario.</Make_VAE_Apparel_SheriffShirt.description>
+  <Make_VAE_Apparel_SheriffShirt.jobString>Confeccionando camisa de comisario.</Make_VAE_Apparel_SheriffShirt.jobString>
+
+
+  <!--EN: Jumpsuit -->
+
+  <Make_VAE_Apparel_Jumpsuit.label>confeccionar mono</Make_VAE_Apparel_Jumpsuit.label>
+  <Make_VAE_Apparel_Jumpsuit.description>Confecciona un mono.</Make_VAE_Apparel_Jumpsuit.description>
+  <Make_VAE_Apparel_Jumpsuit.jobString>Confeccionando mono.</Make_VAE_Apparel_Jumpsuit.jobString>
+
+
+  <!--Apparel Medieval -->
+  <!--EN: Tunic -->
+
+  <Make_VAE_Apparel_Tunic.label>confeccionar túnica sencilla</Make_VAE_Apparel_Tunic.label>
+  <Make_VAE_Apparel_Tunic.description>Confecciona una túnica sencilla.</Make_VAE_Apparel_Tunic.description>
+  <Make_VAE_Apparel_Tunic.jobString>Confeccionando túnica sencilla.</Make_VAE_Apparel_Tunic.jobString>
+
+
+  <!--EN: Blouse -->
+
+  <Make_VAE_Apparel_Blouse.label>confeccionar blusa</Make_VAE_Apparel_Blouse.label>
+  <Make_VAE_Apparel_Blouse.description>Confecciona una blusa.</Make_VAE_Apparel_Blouse.description>
+  <Make_VAE_Apparel_Blouse.jobString>Confeccionando blusa.</Make_VAE_Apparel_Blouse.jobString>
+
+
+  <!--EN: Apron -->
+
+  <Make_VAE_Apparel_Apron.label>confeccionar delantal</Make_VAE_Apparel_Apron.label>
+  <Make_VAE_Apparel_Apron.description>Confecciona un delantal.</Make_VAE_Apparel_Apron.description>
+  <Make_VAE_Apparel_Apron.jobString>Confeccionando delantal.</Make_VAE_Apparel_Apron.jobString>
+
+
+  <!--EN: Cape -->
+
+  <Make_VAE_Apparel_Cape.label>confeccionar capa sencilla</Make_VAE_Apparel_Cape.label>
+  <Make_VAE_Apparel_Cape.description>Confecciona una capa sencilla.</Make_VAE_Apparel_Cape.description>
+  <Make_VAE_Apparel_Cape.jobString>Confeccionando capa sencilla.</Make_VAE_Apparel_Cape.jobString>
+
+
+  <!--EN: Trapper Hat -->
+
+  <Make_VAE_Headgear_TrapperHat.label>confeccionar gorro de invierno</Make_VAE_Headgear_TrapperHat.label>
+  <Make_VAE_Headgear_TrapperHat.description>Confecciona un gorro de invierno.</Make_VAE_Headgear_TrapperHat.description>
+  <Make_VAE_Headgear_TrapperHat.jobString>Confeccionando gorro de invierno.</Make_VAE_Headgear_TrapperHat.jobString>
+
+
+  <!--EN: Summer Hat -->
+
+  <Make_VAE_Headgear_SummerHat.label>confeccionar sombrero de verano</Make_VAE_Headgear_SummerHat.label>
+  <Make_VAE_Headgear_SummerHat.description>Confecciona un sombrero de verano.</Make_VAE_Headgear_SummerHat.description>
+  <Make_VAE_Headgear_SummerHat.jobString>Confeccionando sombrero de verano.</Make_VAE_Headgear_SummerHat.jobString>
+
+
+  <!--Apparel Neolithic -->
+  <!--EN: Pelt Coat -->
+
+  <Make_VAE_Apparel_PeltCoat.label>confeccionar abrigo de piel</Make_VAE_Apparel_PeltCoat.label>
+  <Make_VAE_Apparel_PeltCoat.description>Confecciona un abrigo de piel.</Make_VAE_Apparel_PeltCoat.description>
+  <Make_VAE_Apparel_PeltCoat.jobString>Confeccionando abrigo de piel.</Make_VAE_Apparel_PeltCoat.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
+  <!--EN: Tribal Poncho -->
+
+  <Make_VAE_Apparel_TribalPoncho.label>confeccionar poncho tribal</Make_VAE_Apparel_TribalPoncho.label>
+  <Make_VAE_Apparel_TribalPoncho.description>Confecciona un poncho tribal.</Make_VAE_Apparel_TribalPoncho.description>
+  <Make_VAE_Apparel_TribalPoncho.jobString>Confeccionando poncho tribal.</Make_VAE_Apparel_TribalPoncho.jobString>
+
+
+  <!--EN: Tribal Kilt -->
+
+  <Make_VAE_Apparel_TribalKilt.label>confeccionar falda tribal</Make_VAE_Apparel_TribalKilt.label>
+  <Make_VAE_Apparel_TribalKilt.description>Confecciona una falda tribal.</Make_VAE_Apparel_TribalKilt.description>
+  <Make_VAE_Apparel_TribalKilt.jobString>Confeccionando falda tribal.</Make_VAE_Apparel_TribalKilt.jobString>
+
+
+  <!--EN: Hood -->
+
+  <Make_VAE_Headgear_Hood.label>confeccionar capucha</Make_VAE_Headgear_Hood.label>
+  <Make_VAE_Headgear_Hood.description>Confecciona una capucha.</Make_VAE_Headgear_Hood.description>
+  <Make_VAE_Headgear_Hood.jobString>Confeccionando capucha.</Make_VAE_Headgear_Hood.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+  <!--Apparel Industrial -->
+  <!--EN: Scarf -->
+
+  <Make_VAE_Headgear_Scarf.label>confeccionar bufanda</Make_VAE_Headgear_Scarf.label>
+  <Make_VAE_Headgear_Scarf.description>Confecciona una bufanda.</Make_VAE_Headgear_Scarf.description>
+  <Make_VAE_Headgear_Scarf.jobString>Confeccionando bufanda.</Make_VAE_Headgear_Scarf.jobString>
+
+
+  <!--EN: Beret -->
+
+  <Make_VAE_Headgear_Beret.label>confeccionar boina</Make_VAE_Headgear_Beret.label>
+  <Make_VAE_Headgear_Beret.description>Confecciona una boina.</Make_VAE_Headgear_Beret.description>
+  <Make_VAE_Headgear_Beret.jobString>Confeccionando boina.</Make_VAE_Headgear_Beret.jobString>
+
+
+  <!--EN: Hardhat -->
+
+  <Make_VAE_Headgear_Hardhat.label>fabricar casco de protección.</Make_VAE_Headgear_Hardhat.label>
+  <Make_VAE_Headgear_Hardhat.description>Fabrica un casco de protección.</Make_VAE_Headgear_Hardhat.description>
+  <Make_VAE_Headgear_Hardhat.jobString>Fabricando casco de protección.</Make_VAE_Headgear_Hardhat.jobString>
+
+
+  <!--EN: Surgical Mask -->
+
+  <Make_VAE_Headgear_SurgicalMask.label>fabricar mascarilla quirúrgica</Make_VAE_Headgear_SurgicalMask.label>
+  <Make_VAE_Headgear_SurgicalMask.description>Fabrica una mascarilla quirúrgica.</Make_VAE_Headgear_SurgicalMask.description>
+  <Make_VAE_Headgear_SurgicalMask.jobString>Fabricando mascarilla quirúrgica.</Make_VAE_Headgear_SurgicalMask.jobString>
+
+
+  <!--EN: Gas Mask -->
+
+  <Make_VAE_Headgear_GasMask.label>fabricar máscara de gas</Make_VAE_Headgear_GasMask.label>
+  <Make_VAE_Headgear_GasMask.description>Fabrica una máscara de gas.</Make_VAE_Headgear_GasMask.description>
+  <Make_VAE_Headgear_GasMask.jobString>Fabricando máscara de gas.</Make_VAE_Headgear_GasMask.jobString>
+
+
+  <!--EN: Baseball Cap -->
+
+  <Make_VAE_Headgear_BaseballCap.label>confeccionar gorra de béisbol</Make_VAE_Headgear_BaseballCap.label>
+  <Make_VAE_Headgear_BaseballCap.description>Confecciona una gorra de béisbol.</Make_VAE_Headgear_BaseballCap.description>
+  <Make_VAE_Headgear_BaseballCap.jobString>Confeccionando gorra de béisbol.</Make_VAE_Headgear_BaseballCap.jobString>
+
+
+  <!--EN: Sunglasses -->
+
+  <Make_VAE_Headgear_Sunglasses.label>fabricar gafas de sol</Make_VAE_Headgear_Sunglasses.label>
+  <Make_VAE_Headgear_Sunglasses.description>Fabrica unas gafas de sol.</Make_VAE_Headgear_Sunglasses.description>
+  <Make_VAE_Headgear_Sunglasses.jobString>Fabricando gafas de sol.</Make_VAE_Headgear_Sunglasses.jobString>
+
+
+  <!--EN: Glasses -->
+
+  <Make_VAE_Headgear_Glasses.label>fabricar anteojos</Make_VAE_Headgear_Glasses.label>
+  <Make_VAE_Headgear_Glasses.description>Fabrica unos anteojos.</Make_VAE_Headgear_Glasses.description>
+  <Make_VAE_Headgear_Glasses.jobString>Fabricando anteojos.</Make_VAE_Headgear_Glasses.jobString>
+
+
+  <!--EN: Chefs Toque -->
+
+  <Make_VAE_Headgear_ChefsToque.label>confeccionar gorro de chef</Make_VAE_Headgear_ChefsToque.label>
+  <Make_VAE_Headgear_ChefsToque.description>Confecciona un gorro de chef.</Make_VAE_Headgear_ChefsToque.description>
+  <Make_VAE_Headgear_ChefsToque.jobString>Confeccionando gorro de chef.</Make_VAE_Headgear_ChefsToque.jobString>
+
+  <!--Armor-->
+
+  <!--EN: Plate Boots -->
+
+  <Make_VAE_Footwear_PlateBoots.label>fabricar botas de placas</Make_VAE_Footwear_PlateBoots.label>
+  <Make_VAE_Footwear_PlateBoots.description>Fabrica un par de botas de placas.</Make_VAE_Footwear_PlateBoots.description>
+  <Make_VAE_Footwear_PlateBoots.jobString>Fabricando botas de placas.</Make_VAE_Footwear_PlateBoots.jobString>
+
+
+  <!--EN: Marine Boots -->
+
+  <Make_VAE_Footwear_MarineBoots.label>fabricar botas de servoarmadura</Make_VAE_Footwear_MarineBoots.label>
+  <Make_VAE_Footwear_MarineBoots.description>Fabrica un par de botas de servoarmadura.</Make_VAE_Footwear_MarineBoots.description>
+  <Make_VAE_Footwear_MarineBoots.jobString>Fabricando botas de servoarmadura.</Make_VAE_Footwear_MarineBoots.jobString>
+
+
+  <!--EN: Plate Gloves -->
+
+  <Make_VAE_Handwear_PlateGloves.label>fabricar guantes de placas</Make_VAE_Handwear_PlateGloves.label>
+  <Make_VAE_Handwear_PlateGloves.description>Fabrica un par de guantes de placas.</Make_VAE_Handwear_PlateGloves.description>
+  <Make_VAE_Handwear_PlateGloves.jobString>Fabricando guantes de placas.</Make_VAE_Handwear_PlateGloves.jobString>
+
+
+  <!--EN: Marine Gloves -->
+
+  <Make_VAE_Handwear_MarineGloves.label>fabricar guantes de servoarmadura</Make_VAE_Handwear_MarineGloves.label>
+  <Make_VAE_Handwear_MarineGloves.description>Fabrica un par de guantes de servoarmadura.</Make_VAE_Handwear_MarineGloves.description>
+  <Make_VAE_Handwear_MarineGloves.jobString>Fabricando guantes de servoarmadura.</Make_VAE_Handwear_MarineGloves.jobString>
+
+
+  <!--Apparel Industrial -->
+  <!--EN: Bulletproof Vest -->
+
+  <Make_VAE_Apparel_BulletproofVest.label>fabricar chaleco antibalas reforzado</Make_VAE_Apparel_BulletproofVest.label>
+  <Make_VAE_Apparel_BulletproofVest.description>Fabrica un chaleco antibalas reforzado.</Make_VAE_Apparel_BulletproofVest.description>
+  <Make_VAE_Apparel_BulletproofVest.jobString>Fabricando chaleco antibalas reforzado.</Make_VAE_Apparel_BulletproofVest.jobString>
+
+
+  <!--EN: Ghillie Suit -->
+
+  <Make_VAE_Apparel_GhillieSuit.label>fabricar traje de camuflaje</Make_VAE_Apparel_GhillieSuit.label>
+  <Make_VAE_Apparel_GhillieSuit.description>Fabrica un traje de camuflaje.</Make_VAE_Apparel_GhillieSuit.description>
+  <Make_VAE_Apparel_GhillieSuit.jobString>Fabricando traje de camuflaje.</Make_VAE_Apparel_GhillieSuit.jobString>
+
+
+  <!--EN: Advanced Vest -->
+
+  <Make_VAE_Apparel_AdvancedVest.label>fabricar chaleco avanzado</Make_VAE_Apparel_AdvancedVest.label>
+  <Make_VAE_Apparel_AdvancedVest.description>Fabrica un chaleco avanzado.</Make_VAE_Apparel_AdvancedVest.description>
+  <Make_VAE_Apparel_AdvancedVest.jobString>Fabricando chaleco avanzado.</Make_VAE_Apparel_AdvancedVest.jobString>
+
+
+  <!--EN: HAZMAT Suit -->
+
+  <Make_VAE_Apparel_HAZMATSuit.label>fabricar traje HAZMAT</Make_VAE_Apparel_HAZMATSuit.label>
+  <Make_VAE_Apparel_HAZMATSuit.description>Fabrica un traje HAZMAT.</Make_VAE_Apparel_HAZMATSuit.description>
+  <Make_VAE_Apparel_HAZMATSuit.jobString>Fabricando traje HAZMAT.</Make_VAE_Apparel_HAZMATSuit.jobString>
+
+
+  <!--Apparel Medieval -->
+  <!--EN: Gambeson -->
+
+  <Make_VAE_Apparel_Gambeson.label>confeccionar gambesón</Make_VAE_Apparel_Gambeson.label>
+  <Make_VAE_Apparel_Gambeson.description>Confecciona un gambesón.</Make_VAE_Apparel_Gambeson.description>
+  <Make_VAE_Apparel_Gambeson.jobString>Confeccionando gambesón.</Make_VAE_Apparel_Gambeson.jobString>
+
+
+  <!--EN: Quilted Vest -->
+
+  <Make_VAE_Apparel_QuiltedVest.label>confeccionar chaleco acolchado</Make_VAE_Apparel_QuiltedVest.label>
+  <Make_VAE_Apparel_QuiltedVest.description>Confecciona un chaleco acolchado.</Make_VAE_Apparel_QuiltedVest.description>
+  <Make_VAE_Apparel_QuiltedVest.jobString>Confeccionando chaleco acolchado.</Make_VAE_Apparel_QuiltedVest.jobString>
+
+
+  <!--EN: Light Plate Armor -->
+
+  <Make_VAE_Apparel_LightPlateArmor.label>fabricar armadura de placas ligera</Make_VAE_Apparel_LightPlateArmor.label>
+  <Make_VAE_Apparel_LightPlateArmor.description>Fabrica un armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.description>
+  <Make_VAE_Apparel_LightPlateArmor.jobString>Fabricando armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.jobString>
+
+
+  <!--EN: Plate Shoulderpads -->
+
+  <Make_VAE_Apparel_PlateShoulderpads.label>fabricar hombreras de placas</Make_VAE_Apparel_PlateShoulderpads.label>
+  <Make_VAE_Apparel_PlateShoulderpads.description>Fabrica unas hombreras de placas.</Make_VAE_Apparel_PlateShoulderpads.description>
+  <Make_VAE_Apparel_PlateShoulderpads.jobString>Fabricando hombreras de placas.</Make_VAE_Apparel_PlateShoulderpads.jobString>
+
+
+  <!--EN: Chestplate -->
+
+  <Make_VAE_Apparel_Chestplate.label>fabricar peto de placas</Make_VAE_Apparel_Chestplate.label>
+  <Make_VAE_Apparel_Chestplate.description>Fabrica un peto de placas.</Make_VAE_Apparel_Chestplate.description>
+  <Make_VAE_Apparel_Chestplate.jobString>Fabricando peto de placas.</Make_VAE_Apparel_Chestplate.jobString>
+
+
+  <!--EN: Chainmail -->
+
+  <Make_VAE_Apparel_Chainmail.label>fabricar cota de malla</Make_VAE_Apparel_Chainmail.label>
+  <Make_VAE_Apparel_Chainmail.description>Fabrica una cota de malla.</Make_VAE_Apparel_Chainmail.description>
+  <Make_VAE_Apparel_Chainmail.jobString>Fabricando cota de malla.</Make_VAE_Apparel_Chainmail.jobString>
+
+
+  <!--EN: Plate Helmet -->
+
+  <Make_VAE_Apparel_PlateHelmet.label>fabricar casco de placas</Make_VAE_Apparel_PlateHelmet.label>
+  <Make_VAE_Apparel_PlateHelmet.description>Fabrica un casco de placas.</Make_VAE_Apparel_PlateHelmet.description>
+  <Make_VAE_Apparel_PlateHelmet.jobString>Fabricando casco de placas.</Make_VAE_Apparel_PlateHelmet.jobString>
+
+
+  <!--Apparel Neolithic -->
+  <!--EN: Wooden Armor -->
+
+  <Make_VAE_Apparel_WoodenArmor.label>fabricar armadura de madera</Make_VAE_Apparel_WoodenArmor.label>
+  <Make_VAE_Apparel_WoodenArmor.description>Fabrica una armadura de madera.</Make_VAE_Apparel_WoodenArmor.description>
+  <Make_VAE_Apparel_WoodenArmor.jobString>Fabricando armadura de madera.</Make_VAE_Apparel_WoodenArmor.jobString>
+
+
+  <!--EN: Stone War Mask -->
+
+  <Make_VAE_Headgear_StoneWarMask.label>fabricar máscara de guerra de piedra</Make_VAE_Headgear_StoneWarMask.label>
+  <Make_VAE_Headgear_StoneWarMask.description>Fabrica una máscara de guerra de piedra.</Make_VAE_Headgear_StoneWarMask.description>
+  <Make_VAE_Headgear_StoneWarMask.jobString>Fabricando máscara de guerra de piedra.</Make_VAE_Headgear_StoneWarMask.jobString>
+
+
+  <!--Apparel Spacer -->
+  <!--EN: Light Marine Helmet -->
+
+  <Make_VAE_Headgear_LightMarineHelmet.label>fabricar casco de servoarmadura ligero</Make_VAE_Headgear_LightMarineHelmet.label>
+  <Make_VAE_Headgear_LightMarineHelmet.description>Fabrica un casco de servoarmadura ligero.</Make_VAE_Headgear_LightMarineHelmet.description>
+  <Make_VAE_Headgear_LightMarineHelmet.jobString>Fabricando casco de servoarmadura ligero.</Make_VAE_Headgear_LightMarineHelmet.jobString>
+
+
+  <!--EN: Light Marine Armor -->
+
+  <Make_VAE_Apparel_LightMarineArmor.label>fabricar servoarmadura ligera</Make_VAE_Apparel_LightMarineArmor.label>
+  <Make_VAE_Apparel_LightMarineArmor.description>Fabrica una servoarmadura ligera.</Make_VAE_Apparel_LightMarineArmor.description>
+  <Make_VAE_Apparel_LightMarineArmor.jobString>Fabricando servoarmadura ligera.</Make_VAE_Apparel_LightMarineArmor.jobString>
+
+
+  <!--EN: Heavy Marine Helmet -->
+
+  <Make_VAE_Headgear_HeavyMarineHelmet.label>fabricar casco de servoarmadura pesado</Make_VAE_Headgear_HeavyMarineHelmet.label>
+  <Make_VAE_Headgear_HeavyMarineHelmet.description>Fabrica un casco de servoarmadura pesado.</Make_VAE_Headgear_HeavyMarineHelmet.description>
+  <Make_VAE_Headgear_HeavyMarineHelmet.jobString>Fabricando casco de servoarmadura pesado.</Make_VAE_Headgear_HeavyMarineHelmet.jobString>
+
+
+  <!--EN: Heavy Marine Armor -->
+
+  <Make_VAE_Apparel_HeavyMarineArmor.label>fabricar servoarmadura pesada</Make_VAE_Apparel_HeavyMarineArmor.label>
+  <Make_VAE_Apparel_HeavyMarineArmor.description>Fabrica una servoarmadura pesada.</Make_VAE_Apparel_HeavyMarineArmor.description>
+  <Make_VAE_Apparel_HeavyMarineArmor.jobString>Fabricando servoarmadura pesada.</Make_VAE_Apparel_HeavyMarineArmor.jobString>
+
+
+  <!--Apparel Headgear_Industrial -->
+  <!--EN: Balaclava -->
+
+  <Make_VAE_Headgear_Balaclava.label>fabricar pasamontañas táctico</Make_VAE_Headgear_Balaclava.label>
+  <Make_VAE_Headgear_Balaclava.description>Fabrica un pasamontañas táctico.</Make_VAE_Headgear_Balaclava.description>
+  <Make_VAE_Headgear_Balaclava.jobString>Fabricando pasamontañas táctico.</Make_VAE_Headgear_Balaclava.jobString>
+
+
+  <!--EN: Night Vision goggles -->
+
+  <Make_VAE_Headgear_NightVisionGoggles.label>fabricar gafas de visión nocturna</Make_VAE_Headgear_NightVisionGoggles.label>
+  <Make_VAE_Headgear_NightVisionGoggles.description>Fabrica unas gafas de visión nocturna.</Make_VAE_Headgear_NightVisionGoggles.description>
+  <Make_VAE_Headgear_NightVisionGoggles.jobString>Fabricando gafas de visión nocturna.</Make_VAE_Headgear_NightVisionGoggles.jobString>
+
+
+  <!--EN: Ballistic Goggles -->
+
+  <Make_VAE_Headgear_BallisticGoggles.label>fabricar gafas blindadas</Make_VAE_Headgear_BallisticGoggles.label>
+  <Make_VAE_Headgear_BallisticGoggles.description>Fabrica unas gafas blindadas.</Make_VAE_Headgear_BallisticGoggles.description>
+  <Make_VAE_Headgear_BallisticGoggles.jobString>Fabricando gafas blindadas.</Make_VAE_Headgear_BallisticGoggles.jobString>
+
+
+  <!--EN: Ghillie Hood -->
+
+  <Make_VAE_Headgear_GhillieHood.label>fabricar capucha de camuflaje</Make_VAE_Headgear_GhillieHood.label>
+  <Make_VAE_Headgear_GhillieHood.description>Fabrica una capucha de camuflaje.</Make_VAE_Headgear_GhillieHood.description>
+  <Make_VAE_Headgear_GhillieHood.jobString>Fabricando capucha de camuflaje.</Make_VAE_Headgear_GhillieHood.jobString>
+
+
+  <!--EN: HAZMAT mask -->
+
+  <Make_VAE_Headgear_HAZMATMask.label>fabricar máscara HAZMAT</Make_VAE_Headgear_HAZMATMask.label>
+  <Make_VAE_Headgear_HAZMATMask.description>Fabrica una máscara HAZMAT.</Make_VAE_Headgear_HAZMATMask.description>
+  <Make_VAE_Headgear_HAZMATMask.jobString>Fabricando máscara HAZMAT.</Make_VAE_Headgear_HAZMATMask.jobString>
+  
+  <!--Armor-->
+
+  <!--EN: Plate Boots -->
+
+  <Make_VAE_Footwear_PlateBoots.label>fabricar botas de placas</Make_VAE_Footwear_PlateBoots.label>
+  <Make_VAE_Footwear_PlateBoots.description>Fabrica un par de botas de placas.</Make_VAE_Footwear_PlateBoots.description>
+  <Make_VAE_Footwear_PlateBoots.jobString>Fabricando botas de placas.</Make_VAE_Footwear_PlateBoots.jobString>
+
+
+  <!--EN: Marine Boots -->
+
+  <Make_VAE_Footwear_MarineBoots.label>fabricar botas de servoarmadura</Make_VAE_Footwear_MarineBoots.label>
+  <Make_VAE_Footwear_MarineBoots.description>Fabrica un par de botas de servoarmadura.</Make_VAE_Footwear_MarineBoots.description>
+  <Make_VAE_Footwear_MarineBoots.jobString>Fabricando botas de servoarmadura.</Make_VAE_Footwear_MarineBoots.jobString>
+
+
+  <!--EN: Plate Gloves -->
+
+  <Make_VAE_Handwear_PlateGloves.label>fabricar guantes de placas</Make_VAE_Handwear_PlateGloves.label>
+  <Make_VAE_Handwear_PlateGloves.description>Fabrica un par de guantes de placas.</Make_VAE_Handwear_PlateGloves.description>
+  <Make_VAE_Handwear_PlateGloves.jobString>Fabricando guantes de placas.</Make_VAE_Handwear_PlateGloves.jobString>
+
+
+  <!--EN: Marine Gloves -->
+
+  <Make_VAE_Handwear_MarineGloves.label>fabricar guantes de servoarmadura</Make_VAE_Handwear_MarineGloves.label>
+  <Make_VAE_Handwear_MarineGloves.description>Fabrica un par de guantes de servoarmadura.</Make_VAE_Handwear_MarineGloves.description>
+  <Make_VAE_Handwear_MarineGloves.jobString>Fabricando guantes de servoarmadura.</Make_VAE_Handwear_MarineGloves.jobString>
+
+
+  <!--Apparel Industrial -->
+  <!--EN: Bulletproof Vest -->
+
+  <Make_VAE_Apparel_BulletproofVest.label>fabricar chaleco antibalas reforzado</Make_VAE_Apparel_BulletproofVest.label>
+  <Make_VAE_Apparel_BulletproofVest.description>Fabrica un chaleco antibalas reforzado.</Make_VAE_Apparel_BulletproofVest.description>
+  <Make_VAE_Apparel_BulletproofVest.jobString>Fabricando chaleco antibalas reforzado.</Make_VAE_Apparel_BulletproofVest.jobString>
+
+
+  <!--EN: Ghillie Suit -->
+
+  <Make_VAE_Apparel_GhillieSuit.label>fabricar traje de camuflaje</Make_VAE_Apparel_GhillieSuit.label>
+  <Make_VAE_Apparel_GhillieSuit.description>Fabrica un traje de camuflaje.</Make_VAE_Apparel_GhillieSuit.description>
+  <Make_VAE_Apparel_GhillieSuit.jobString>Fabricando traje de camuflaje.</Make_VAE_Apparel_GhillieSuit.jobString>
+
+
+  <!--EN: Advanced Vest -->
+
+  <Make_VAE_Apparel_AdvancedVest.label>fabricar chaleco avanzado</Make_VAE_Apparel_AdvancedVest.label>
+  <Make_VAE_Apparel_AdvancedVest.description>Fabrica un chaleco avanzado.</Make_VAE_Apparel_AdvancedVest.description>
+  <Make_VAE_Apparel_AdvancedVest.jobString>Fabricando chaleco avanzado.</Make_VAE_Apparel_AdvancedVest.jobString>
+
+
+  <!--EN: HAZMAT Suit -->
+
+  <Make_VAE_Apparel_HAZMATSuit.label>fabricar traje HAZMAT</Make_VAE_Apparel_HAZMATSuit.label>
+  <Make_VAE_Apparel_HAZMATSuit.description>Fabrica un traje HAZMAT.</Make_VAE_Apparel_HAZMATSuit.description>
+  <Make_VAE_Apparel_HAZMATSuit.jobString>Fabricando traje HAZMAT.</Make_VAE_Apparel_HAZMATSuit.jobString>
+
+
+  <!--Apparel Medieval -->
+  <!--EN: Gambeson -->
+
+  <Make_VAE_Apparel_Gambeson.label>confeccionar gambesón</Make_VAE_Apparel_Gambeson.label>
+  <Make_VAE_Apparel_Gambeson.description>Confecciona un gambesón.</Make_VAE_Apparel_Gambeson.description>
+  <Make_VAE_Apparel_Gambeson.jobString>Confeccionando gambesón.</Make_VAE_Apparel_Gambeson.jobString>
+
+
+  <!--EN: Quilted Vest -->
+
+  <Make_VAE_Apparel_QuiltedVest.label>confeccionar chaleco acolchado</Make_VAE_Apparel_QuiltedVest.label>
+  <Make_VAE_Apparel_QuiltedVest.description>Confecciona un chaleco acolchado.</Make_VAE_Apparel_QuiltedVest.description>
+  <Make_VAE_Apparel_QuiltedVest.jobString>Confeccionando chaleco acolchado.</Make_VAE_Apparel_QuiltedVest.jobString>
+
+
+  <!--EN: Light Plate Armor -->
+
+  <Make_VAE_Apparel_LightPlateArmor.label>fabricar armadura de placas ligera</Make_VAE_Apparel_LightPlateArmor.label>
+  <Make_VAE_Apparel_LightPlateArmor.description>Fabrica un armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.description>
+  <Make_VAE_Apparel_LightPlateArmor.jobString>Fabricando armadura de placas ligera.</Make_VAE_Apparel_LightPlateArmor.jobString>
+
+
+  <!--EN: Plate Shoulderpads -->
+
+  <Make_VAE_Apparel_PlateShoulderpads.label>fabricar hombreras de placas</Make_VAE_Apparel_PlateShoulderpads.label>
+  <Make_VAE_Apparel_PlateShoulderpads.description>Fabrica unas hombreras de placas.</Make_VAE_Apparel_PlateShoulderpads.description>
+  <Make_VAE_Apparel_PlateShoulderpads.jobString>Fabricando hombreras de placas.</Make_VAE_Apparel_PlateShoulderpads.jobString>
+
+
+  <!--EN: Chestplate -->
+
+  <Make_VAE_Apparel_Chestplate.label>fabricar peto de placas</Make_VAE_Apparel_Chestplate.label>
+  <Make_VAE_Apparel_Chestplate.description>Fabrica un peto de placas.</Make_VAE_Apparel_Chestplate.description>
+  <Make_VAE_Apparel_Chestplate.jobString>Fabricando peto de placas.</Make_VAE_Apparel_Chestplate.jobString>
+
+
+  <!--EN: Chainmail -->
+
+  <Make_VAE_Apparel_Chainmail.label>fabricar cota de malla</Make_VAE_Apparel_Chainmail.label>
+  <Make_VAE_Apparel_Chainmail.description>Fabrica una cota de malla.</Make_VAE_Apparel_Chainmail.description>
+  <Make_VAE_Apparel_Chainmail.jobString>Fabricando cota de malla.</Make_VAE_Apparel_Chainmail.jobString>
+
+
+  <!--EN: Plate Helmet -->
+
+  <Make_VAE_Apparel_PlateHelmet.label>fabricar casco de placas</Make_VAE_Apparel_PlateHelmet.label>
+  <Make_VAE_Apparel_PlateHelmet.description>Fabrica un casco de placas.</Make_VAE_Apparel_PlateHelmet.description>
+  <Make_VAE_Apparel_PlateHelmet.jobString>Fabricando casco de placas.</Make_VAE_Apparel_PlateHelmet.jobString>
+
+
+  <!--Apparel Neolithic -->
+  <!--EN: Wooden Armor -->
+
+  <Make_VAE_Apparel_WoodenArmor.label>fabricar armadura de madera</Make_VAE_Apparel_WoodenArmor.label>
+  <Make_VAE_Apparel_WoodenArmor.description>Fabrica una armadura de madera.</Make_VAE_Apparel_WoodenArmor.description>
+  <Make_VAE_Apparel_WoodenArmor.jobString>Fabricando armadura de madera.</Make_VAE_Apparel_WoodenArmor.jobString>
+
+
+  <!--EN: Stone War Mask -->
+
+  <Make_VAE_Headgear_StoneWarMask.label>fabricar máscara de guerra de piedra</Make_VAE_Headgear_StoneWarMask.label>
+  <Make_VAE_Headgear_StoneWarMask.description>Fabrica una máscara de guerra de piedra.</Make_VAE_Headgear_StoneWarMask.description>
+  <Make_VAE_Headgear_StoneWarMask.jobString>Fabricando máscara de guerra de piedra.</Make_VAE_Headgear_StoneWarMask.jobString>
+
+
+  <!--Apparel Spacer -->
+  <!--EN: Light Marine Helmet -->
+
+  <Make_VAE_Headgear_LightMarineHelmet.label>fabricar casco de servoarmadura ligero</Make_VAE_Headgear_LightMarineHelmet.label>
+  <Make_VAE_Headgear_LightMarineHelmet.description>Fabrica un casco de servoarmadura ligero.</Make_VAE_Headgear_LightMarineHelmet.description>
+  <Make_VAE_Headgear_LightMarineHelmet.jobString>Fabricando casco de servoarmadura ligero.</Make_VAE_Headgear_LightMarineHelmet.jobString>
+
+
+  <!--EN: Light Marine Armor -->
+
+  <Make_VAE_Apparel_LightMarineArmor.label>fabricar servoarmadura ligera</Make_VAE_Apparel_LightMarineArmor.label>
+  <Make_VAE_Apparel_LightMarineArmor.description>Fabrica una servoarmadura ligera.</Make_VAE_Apparel_LightMarineArmor.description>
+  <Make_VAE_Apparel_LightMarineArmor.jobString>Fabricando servoarmadura ligera.</Make_VAE_Apparel_LightMarineArmor.jobString>
+
+
+  <!--EN: Heavy Marine Helmet -->
+
+  <Make_VAE_Headgear_HeavyMarineHelmet.label>fabricar casco de servoarmadura pesado</Make_VAE_Headgear_HeavyMarineHelmet.label>
+  <Make_VAE_Headgear_HeavyMarineHelmet.description>Fabrica un casco de servoarmadura pesado.</Make_VAE_Headgear_HeavyMarineHelmet.description>
+  <Make_VAE_Headgear_HeavyMarineHelmet.jobString>Fabricando casco de servoarmadura pesado.</Make_VAE_Headgear_HeavyMarineHelmet.jobString>
+
+
+  <!--EN: Heavy Marine Armor -->
+
+  <Make_VAE_Apparel_HeavyMarineArmor.label>fabricar servoarmadura pesada</Make_VAE_Apparel_HeavyMarineArmor.label>
+  <Make_VAE_Apparel_HeavyMarineArmor.description>Fabrica una servoarmadura pesada.</Make_VAE_Apparel_HeavyMarineArmor.description>
+  <Make_VAE_Apparel_HeavyMarineArmor.jobString>Fabricando servoarmadura pesada.</Make_VAE_Apparel_HeavyMarineArmor.jobString>
+
+
+  <!--Apparel Headgear_Industrial -->
+  <!--EN: Balaclava -->
+
+  <Make_VAE_Headgear_Balaclava.label>fabricar pasamontañas táctico</Make_VAE_Headgear_Balaclava.label>
+  <Make_VAE_Headgear_Balaclava.description>Fabrica un pasamontañas táctico.</Make_VAE_Headgear_Balaclava.description>
+  <Make_VAE_Headgear_Balaclava.jobString>Fabricando pasamontañas táctico.</Make_VAE_Headgear_Balaclava.jobString>
+
+
+  <!--EN: Night Vision goggles -->
+
+  <Make_VAE_Headgear_NightVisionGoggles.label>fabricar gafas de visión nocturna</Make_VAE_Headgear_NightVisionGoggles.label>
+  <Make_VAE_Headgear_NightVisionGoggles.description>Fabrica unas gafas de visión nocturna.</Make_VAE_Headgear_NightVisionGoggles.description>
+  <Make_VAE_Headgear_NightVisionGoggles.jobString>Fabricando gafas de visión nocturna.</Make_VAE_Headgear_NightVisionGoggles.jobString>
+
+
+  <!--EN: Ballistic Goggles -->
+
+  <Make_VAE_Headgear_BallisticGoggles.label>fabricar gafas blindadas</Make_VAE_Headgear_BallisticGoggles.label>
+  <Make_VAE_Headgear_BallisticGoggles.description>Fabrica unas gafas blindadas.</Make_VAE_Headgear_BallisticGoggles.description>
+  <Make_VAE_Headgear_BallisticGoggles.jobString>Fabricando gafas blindadas.</Make_VAE_Headgear_BallisticGoggles.jobString>
+
+
+  <!--EN: Ghillie Hood -->
+
+  <Make_VAE_Headgear_GhillieHood.label>fabricar capucha de camuflaje</Make_VAE_Headgear_GhillieHood.label>
+  <Make_VAE_Headgear_GhillieHood.description>Fabrica una capucha de camuflaje.</Make_VAE_Headgear_GhillieHood.description>
+  <Make_VAE_Headgear_GhillieHood.jobString>Fabricando capucha de camuflaje.</Make_VAE_Headgear_GhillieHood.jobString>
+
+
+  <!--EN: HAZMAT mask -->
+
+  <Make_VAE_Headgear_HAZMATMask.label>fabricar máscara HAZMAT</Make_VAE_Headgear_HAZMATMask.label>
+  <Make_VAE_Headgear_HAZMATMask.description>Fabrica una máscara HAZMAT.</Make_VAE_Headgear_HAZMATMask.description>
+  <Make_VAE_Headgear_HAZMATMask.jobString>Fabricando máscara HAZMAT.</Make_VAE_Headgear_HAZMATMask.jobString>
+
+
+</LanguageData>

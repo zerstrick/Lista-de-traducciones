@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!-- EN: Summon A Raid -->
+	<EnemyRaidRewardVE.label>Solicitar un asalto</EnemyRaidRewardVE.label>
+	<!-- EN: Summon a Trade Caravan -->
+	<TradeCaravanRewardVE.label>Solicitar una Cavarana Mercante</TradeCaravanRewardVE.label>
+	<!-- EN: Spawn Cargo Pods -->
+	<CargoPodsRewardVE.label>Generar cápsulas de carga</CargoPodsRewardVE.label>
+	<!-- EN: Man in Black Joins -->
+	<ManInBlackRewardVE.label>Hombre de Negro se une</ManInBlackRewardVE.label>
+
+
+</LanguageData>
